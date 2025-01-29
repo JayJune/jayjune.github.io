@@ -8,6 +8,23 @@ $web-font-path: "https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,
 @if $web-font-path {
   @import url("#{$web-font-path}");
 }
+.image-cropper {
+  margin: 2rem;
+  position: relative;
+  overflow: hidden;
+  border-radius: 50%;
+  img {
+    display: inline;
+    margin: 0 auto;
+    height: 100%;
+    width: auto;
+  }
+}
+
+
+.blockquote-container {
+  margin-left: 1rem;
+}
 
 // Navbar
 
