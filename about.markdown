@@ -5,16 +5,16 @@ permalink: /about/
 ---
 
 <div class="container col-xxl-10 px-2 py-2">
-    <div class="row flex-lg-row-reverse align-items-center g-5 py-5">
+    <div class="row flex-lg-row-reverse align-items-center justify-content-center g-5 py-5">
         <div class="col-10 col-sm-8 col-lg-6">
             <div class="image-cropper">
                 <img src="/assets/images/square-photo-together.jpg">
             </div>
         </div>
         <div class="col-lg-6">
-            <h1 class="display-5 fw-bold lh-1 mb-3">Hello!</h1>
+            <h1 class="display-5 fw-bold lh-1 mb-3">Training, teaching, and evangelising in Ryde</h1>
             <p class="lead">
-                I'm Jay, married to Bec, and I'm a ministry apprentice at Captivate Presbyterian Church for 2025-2026.
+                Hello! I'm Jay, married to Bec, and I'm a ministry apprentice at Captivate Presbyterian Church for 2025-2026.
             </p>
         </div>
     </div>
@@ -52,3 +52,6 @@ The only hope I have in life and in death, is that I do not belong to myself, bu
         Ephesians 3:8–12
     </figcaption>
 </div>
+
+Let me know if you have any prayer points, questions, or if you'd like a coffee!  
+<a href="mailto:jay@captivatechurch.org">jay@captivatechurch.org</a>

@@ -19,18 +19,29 @@ layout: default
     <ul class="list-unstyled">
       {%- for post in site.posts -%}
       <li>
-        <span class="text-muted">
-          {%- assign date_format = "%b %-d, %Y" -%}
-          {{ post.date | date: date_format }}
-        </span>
-        <p class="h5">
-          <a href="{{ post.url | relative_url }}">
-            {{ post.title | escape }}
-          </a>
-        </p>
-        {%- if site.show_excerpts -%}
-          {{ post.excerpt }}
-        {%- endif -%}
+        <div class="row flex-lg-row align-items-center">
+          <div class="col-lg-6 my-4">
+            <a href="{{ post.url | relative_url }}">
+              <img class="blog-inline-image" src="{{ post.picture }}">
+            </a>
+          </div>
+          <div class="col-lg-6 my-4">
+            <span class="text-muted">
+              {%- assign date_format = "%b %-d, %Y" -%}
+              {{ post.date | date: date_format }}
+            </span>
+            <p class="h5">
+              <a href="{{ post.url | relative_url }}">
+                {{ post.title | escape }}
+              </a>
+            </p>
+            {%- if site.show_excerpts -%}
+              {{ post.excerpt }}
+            {%- endif -%}
+          </div>
+        </div>
+
+        
       </li>
       {%- endfor -%}
     </ul>
