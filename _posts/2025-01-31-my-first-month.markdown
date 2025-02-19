@@ -44,7 +44,7 @@ categories: update
 <div class="row flex-lg-row align-items-center">
     <div class="col-lg-6 my-4">
         <h3>kicking off the year</h3>
-         Leading up to my start in January I was excited to be working at church but also a little nervous knowing I'd have to endure the initial settling in period - I've definitely felt the busy-ness this month. Adjusting to new work has been tiring, but it has been rewarding in knowing that it ultimately has eternal value. When I reflect on my previous job, I'm reminded of times when I was not sure what value was being provided in the work which we were doing. But as I've been working with a great team at church, everything we do has purpose and aligns with God's mission to see the save lost, and it's so encouraging to see everyone at church be a part of God's work.
+         Leading up to my start in January I was excited to be working at church but also a little nervous knowing I'd have to endure the initial settling in period - I've definitely felt the busy-ness this month. Adjusting to new work has been tiring, but it has been rewarding in knowing that it ultimately has eternal value. When I reflect on my previous job, I'm reminded of times when I was not sure what value was being provided in the work which we were doing. But as I've been working with a great team at church, everything we do has purpose and aligns with God's mission to see the lost saved, and it's so encouraging to see everyone at church be a part of God's work.
     </div>
     <div class="col-lg-6 my-4 d-flex flex-column align-items-center">
         <img class="blog-inline-image" src="/assets/images/25JAN/commissioning.jpg">
