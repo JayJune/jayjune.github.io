@@ -11,7 +11,7 @@ categories: update
     </div>
     <div class="col-lg-6 my-4 d-flex flex-column align-items-center">
         <img class="blog-inline-image" src="/assets/images/2503MAR/tgc-leaders.jpg">
-        <i class="text-center">Hello from our Bible study leaders at our latest TGC leader's meeting, which was also the last leader's meeting for our coleader Hannah :(</i>
+        <i class="text-center">Hello from the Bible study leaders at our latest TGC leader's meeting, which was also the last leader's meeting for our coleader Hannah :(</i>
     </div>
 </div>
 
