@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "a fruitful february"
-picture: "/assets/images/25FEB/service-leaders-meeting.jpg"
+picture: "/assets/images/2502FEB/service-leaders-meeting.jpg"
 date:   2025-03-01 00:00:01 +1100
 categories: update
 ---
@@ -10,7 +10,7 @@ categories: update
         Hope you've had a good February! Mine has been a month of busy-ness and learning how to manage my time well and settling into a healthy rhythm to do ministry well for many years to come. Again, here's some highlights from this month, and I've dropped some reflections and prayer points at the bottom.
     </div>
     <div class="col-lg-6 my-4 d-flex flex-column align-items-center">
-        <img class="blog-inline-image" src="/assets/images/25FEB/leaders-retreat.jpg">
+        <img class="blog-inline-image" src="/assets/images/2502FEB/leaders-retreat.jpg">
         <i class="text-center">we kicked off the month at church with our leaders retreat where we were refreshed with God's word and together thought about what our church will look like over the next 10 years.</i>
     </div>
 </div>
@@ -37,7 +37,7 @@ categories: update
             I've continued in service leading this year and it is still an encouragement every time I prepare to lead our church in Sunday worship! We meet regularly as a team of service leaders to keep sharpening our Sundays. Super thankful for this team as they are a great, mature bunch who have encouraged me in serving our church well. I was also really encouraged this month as I was able to help one of the newer guys at church share up the front about how he has seen God's heart and how that has shaped and continues to shape his life!
     </div>
     <div class="col-lg-6 my-4 d-flex flex-column align-items-center">
-        <img class="blog-inline-image" src="/assets/images/25FEB/service-leaders-meeting.jpg">
+        <img class="blog-inline-image" src="/assets/images/2502FEB/service-leaders-meeting.jpg">
         <i class="text-center">The service leaders team in deep collaboration</i>
     </div>
 </div>
@@ -47,7 +47,7 @@ categories: update
         Youth has kicked off for the year and we've been looking at the book of Mark - our youth group isn't huge but I've been encouraged that a number of them from our church have persevered in their attendance. In particular I've been encouraged by M, who has been good in wrestling well with the Bible and continues to grow in his desire for God's knowledge. It's also been awesome to get to know the other leaders well. Pray for us for more opportunities to reach out to youth in the community and for more people to hear the gospel!
     </div>
     <div class="col-lg-6 my-4 d-flex flex-column align-items-center">
-        <img class="blog-inline-image" src="/assets/images/25FEB/youth.jpg">
+        <img class="blog-inline-image" src="/assets/images/2502FEB/youth.jpg">
         <i class="text-center">While we go through the book of Mark we've been writing down what we've learnt each week about who Jesus is.</i>
     </div>
 </div>
@@ -57,7 +57,7 @@ categories: update
             I took a few days off to go to Melbourne with Bec, and we were able to sample a lot of different foods, but more importantly we got to catch up with friends! It was a good time of fellowship with a few different friends, and I was able to also go to visit church where friends formerly from captivate are ministering at. I was really encouraged to meet other faithful Christians on fire for the gospel and see God at work in Melbourne.
     </div>
     <div class="col-lg-6 my-4 d-flex flex-column align-items-center">
-        <img class="blog-inline-image" src="/assets/images/25FEB/melbourne.jpg">
+        <img class="blog-inline-image" src="/assets/images/2502FEB/melbourne.jpg">
         <i class="text-center">Kevin and Felicity serve faithfully at Cross & Crown Melbourne, and I was able to hear Kevin preach faithfully from Matthew 2 of Jesus, our true king.</i>
     </div>
 </div>
@@ -104,7 +104,7 @@ categories: update
         <h3>🙏 Thanks for reading this to the end! Shoot through a message when you've prayed (even if it's just a "hey!") and let me know how I can be praying for you also! </h3>
     </div>
     <div class="col-lg-6 my-4 d-flex flex-column align-items-center">
-        <img class="blog-inline-image" src="/assets/images/25FEB/ice-cream.jpg">
+        <img class="blog-inline-image" src="/assets/images/2502FEB/ice-cream.jpg">
         <i class="text-center">Bonus picture of a free ice cream I got in Melbourne. It's Messina x Lee Kum Kee Coconut and Kaffir Lime gelato with peanut topping and Chiu Chow Style Chilli Oil peanut crisps. Sounds odd but a great combination of cool and spicy, 10/10.</i>
     </div>
 </div>

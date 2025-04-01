@@ -1,8 +1,8 @@
 ---
 layout: post
 title:  "my first month as an apprentice"
-picture: "/assets/images/25JAN/commissioning.jpg"
-date:   2025-01-31 00:00:01 +1100
+picture: "/assets/images/2501JAN/commissioning.jpg"
+date:   2025-02-01 00:00:01 +1100
 categories: update
 ---
 <div class="row flex-lg-row align-items-center">
@@ -10,7 +10,7 @@ categories: update
         Happy new year! I hope you've enjoyed the holiday season and you've had a great January. Thank you for your prayer and partnership in the gospel, I am thankful to God for you and his church in supporting me in pursuing full time gospel ministry for the kingdom. Here's some highlights from this month, and I've dropped some reflections and prayer points at the bottom.
     </div>
     <div class="col-lg-6 my-4 d-flex flex-column align-items-center">
-        <img class="blog-inline-image" src="/assets/images/25JAN/jerseys.png">
+        <img class="blog-inline-image" src="/assets/images/2501JAN/jerseys.png">
         <i class="text-center">my first day in the office with my trainer Jireh</i>
     </div>
 </div>
@@ -47,7 +47,7 @@ categories: update
          Leading up to my start in January I was excited to be working at church but also a little nervous knowing I'd have to endure the initial settling in period - I've definitely felt the busy-ness this month. Adjusting to new work has been tiring, but it has been rewarding in knowing that it ultimately has eternal value. When I reflect on my previous job, I'm reminded of times when I was not sure what value was being provided in the work which we were doing. But as I've been working with a great team at church, everything we do has purpose and aligns with God's mission to see the lost saved, and it's so encouraging to see everyone at church be a part of God's work.
     </div>
     <div class="col-lg-6 my-4 d-flex flex-column align-items-center">
-        <img class="blog-inline-image" src="/assets/images/25JAN/commissioning.jpg">
+        <img class="blog-inline-image" src="/assets/images/2501JAN/commissioning.jpg">
         <i class="text-center">I was commissioned on the first Sunday of the year at both services!</i>
     </div>
 </div>
@@ -57,7 +57,7 @@ categories: update
         Ministry Training Strategy (MTS) is an organisation which grows gospel workers through ministry apprenticeships - and they have an annual conference for trainees to kick off the year! (note: I'm not doing the formal MTS program, but feel free to ask me why!) I was encouraged to see over 100 apprentices from across Australia who are on for the gospel meet together to share in fellowship with one another. It was a great time to meet and pray for one another, and receive God's word together as we considered how convictions shape our character and ministry. I really appreciated meeting people from all different walks of life, including a trainer from Zimbabwe, and also catching up with older friends who I hadn't seen in a long time!  
     </div>
     <div class="col-lg-6 my-4 d-flex flex-column align-items-center">
-        <img class="blog-inline-image" src="/assets/images/25JAN/G8network.jpg">
+        <img class="blog-inline-image" src="/assets/images/2501JAN/G8network.jpg">
         <i class="text-center">My network group at G8 with other apprentices, we cover from Melbourne to Brisbane and a few churches inbetween!</i>
     </div>
 </div>
@@ -67,7 +67,7 @@ categories: update
             Over the holidays the kid's ministry team is taking a well deserved break, so while our church has been going through the book of Jude we've also been bringing Jude to the kids through a skit! With the help of Rad (the 2nd year apprentice at Captivate) we wrote the script for two of the four weeks - It's a story of how Earth sends one of their travellers to a distant planet called Candytron (where everything is made of Candy), and they come under attack from another planet called Sodius Chloridus, their ruler threatening to turn the whole planet into salt. Each week our main character encourages us from the book of Jude to defend the planet, and in turn defend and contend for the faith which we have in Jesus. Having only briefly done kid's ministry (and not having done it for a long while) I found it challenging but rewarding to write the scripts. To distill the message of the passage into something which could be digested through a narrative of fantasy was hard for me, but it was great to see children engage with the Bible!
     </div>
     <div class="col-lg-6 my-4 d-flex flex-column align-items-center">
-        <img class="blog-inline-image" src="/assets/images/25JAN/ckspot.jpg">
+        <img class="blog-inline-image" src="/assets/images/2501JAN/ckspot.jpg">
         <i class="text-center">I enjoyed being able to act one week, here I'm a false prophet encouraging the people of Candytron to accept salt with their sugar 😱</i>
     </div>
 </div>
