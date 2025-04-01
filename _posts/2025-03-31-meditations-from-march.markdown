@@ -2,7 +2,7 @@
 layout: post
 title:  "meditations from march"
 picture: "/assets/images/2503MAR/wea.jpg"
-date:   2025-03-31 00:00:01 +1100
+date:   2025-04-01 00:00:01 +1100
 categories: update
 ---
 <div class="row flex-lg-row align-items-center">
