@@ -67,8 +67,8 @@ categories: update
         <ul class="list-group list-group-flush">
             <li class="list-group-item">- Preaching requires a lot of time and care! I knew this already but preparing to preach for the first time has been a very time consuming task, yet it has been very edifying in being able to spend so much time deeply in a passage.</li>
             <li class="list-group-item">- Working hard on proclaiming the Bible clearly in all ministries is very high value. As I reflect on how I became a Christian I'm thankful for the Christians who were clear with what the Bible says about who Jesus is. As I grow in ministry and learn more leadership skills I've been reminded to not lose sight of the core task at hand, to preach Jesus to the world!</li>
-            <li class="list-group-item">- Ask specific people for feedback early: I openly invited everyone at the church camp workshop to provide feedback, but I think because it was too broad of an invite no one felt explicitly responsible or moved to give feedback. Moving forward I think I need to ask specific people in advance to give me feedback for </li>
-            <li class="list-group-item">- It's hard to work on things that I have to take initiative in leading. It's much easier to just do as I'm told in ministries, but as we close off the first quarter of the year I'm reminded that there's things that I'm solely responsible for leading that I've only moved on slowly</li>
+            <li class="list-group-item">- Ask specific people for feedback early: I openly invited everyone at the church camp workshop to provide feedback, but I think because it was too broad of an invite no one felt explicitly responsible or moved to give feedback. Moving forward I need to ask specific people in advance to give me feedback on my ministry.</li>
+            <li class="list-group-item">- It's hard to work on things that I have to take initiative in leading. It's much easier to just do as I'm told in ministries, but as we close off the first quarter of the year I'm reminded that there's things that I'm solely responsible for leading that I've only moved slowly on</li>
         </ul>
     </div>
     <div class="col-lg-6 my-4">
@@ -90,7 +90,7 @@ categories: update
 
 <div class="row flex-lg-row align-items-center">
     <div class="col-lg-6 my-4">
-        <h3>🙏 Thanks for reading this to the end! Shoot through a message when you've prayed (even if it's just a "hey!") and let me know how I can be praying for you also! </h3>
+        <h3>🙏 Thank you again for your partnership in the gospel! Shoot through a message when you've prayed (even if it's just a "hey!") and let me know how I can be praying for you also! </h3>
     </div>
     <div class="col-lg-6 my-4 d-flex flex-column align-items-center">
         <img class="blog-inline-image" src="/assets/images/2503MAR/noodle.jpg">
