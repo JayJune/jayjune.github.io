@@ -1,0 +1,110 @@
+---
+layout: post
+title:  an active april
+picture: "/assets/images/2504APR/preaching1.jpg"
+date:   2025-05-01 00:00:01 +1100
+categories: update
+---
+<div class="row flex-lg-row align-items-center">
+    <div class="col-lg-6 my-4">
+        Thank you again for your Gospel partnership! Without your prayers and support, doing this ministry apprenticeship would not be possible. I hope you've enjoyed your month, mine has been a busy one with larger projects so this is a shorter update. But again here's some highlights from this month, and I've dropped some reflections and prayer points at the bottom.
+    </div>
+    <div class="col-lg-6 my-4 d-flex flex-column align-items-center">
+        <img class="blog-inline-image" src="/assets/images/2504APR/preaching1.jpg">
+        <i class="text-center">Hello from me as Alan introduces me for my first time preaching!</i>
+    </div>
+</div>
+
+<div class="row flex-lg-row align-items-center">
+    <div class="col-lg-6 my-4">
+        <div class="blockquote-container">
+            <blockquote class="blockquote">
+                Long ago, at many times and in many ways, God spoke to our fathers by the prophets, but in these last days he has spoken to us by his Son, whom he appointed the heir of all things, through whom also he created the world. He is the radiance of the glory of God and the exact imprint of his nature, and he upholds the universe by the word of his power. After making purification for sins, he sat down at the right hand of the Majesty on high, having become as much superior to angels as the name he has inherited is more excellent than theirs.
+            </blockquote>
+            <figcaption class="blockquote-footer">
+                Hebrews 1:1-4
+            </figcaption>
+        </div>
+    </div>
+    <div class="col-lg-6 my-4 d-flex flex-column align-items-center">
+        We've just finished up reading Hebrews in our staff meetings as we prepare for our next series at church in this book. As we wrap up our Easter mission I'm reminded of Jesus who is greater than everything, and who is the final word who completed his work at the cross. Praise God that we see his glory in Jesus, and that he continues uphold the universe as he reigns!
+    </div>
+</div>
+
+<div class="row flex-lg-row align-items-center">
+    <div class="col-lg-6 my-4">
+        <h3>preaching in John</h3>
+            I kicked off the month with my first time preaching as an apprentice! Praise God that my preparation went well and my preaching on the day went well. There is a few things I can keep working on with my delivery but it was a great time in reading the Bible and looking at John closely as I prepared my sermon. I'm glad I started early on the sermon, and my takeaway was that the time invested in getting my process right for preparation was, although time-consuming, really beneficial for further sermons. This was definitely a highlight, and I'm really thankful to have been able to serve God and encourage church in this way. If you would like to hear the sermon, <a href="https://captivatechurch.org/sermon/john-18-28-19-16a">you can listen to it here</a>
+    </div>
+    <div class="col-lg-6 my-4 d-flex flex-column align-items-center">
+        <img class="blog-inline-image" src="/assets/images/2504APR/preaching2.jpg">
+        <i class="text-center">My big idea for the sermon was for us to behold Jesus, our king who lives by the truth.</i>
+    </div>
+</div>
+<div class="row flex-lg-row-reverse align-items-center">
+    <div class="col-lg-6 my-4">
+        <h3>youth end of term party</h3>
+            Thank you for praying for our youth group! The end of term social was a great time of fellowship with dinner and around the Bible. 7 youth came and praise God some non-regular people came too. The youth had really good reflections on who Jesus is at the end of Mark (We had posed them with the question "Who is this man?" throughout the term). Reflecting on the curtain torn open, one of the youth said "Jesus is the one who finished the work at the cross and brings us to God". 
+    </div>
+    <div class="col-lg-6 my-4 d-flex flex-column align-items-center">
+        <img class="blog-inline-image" src="/assets/images/2504APR/youth.png">
+        <i class="text-center">Radman gave a fantastic talk on "What was the cross for?" </i>
+    </div>
+</div>
+<div class="row flex-lg-row align-items-center">
+    <div class="col-lg-6 my-4">
+        <h3>church at the park</h3>
+            For Easter our church had a heightened evangelism season! We usually do an outreach Sunday service which we host at Anzac park in West Ryde. Praise God that the word was preached clearly to many visitors and people who passed by. This was also a good opportunity for me, I was able to lead on two different teams in different capacities, and it helped me think about what role a leader plays in coaching their team members, empowering their team with vision, and doing the work on the ground. 
+    </div>
+    <div class="col-lg-6 my-4 d-flex flex-column align-items-center">
+        <img class="blog-inline-image" src="/assets/images/2504APR/catp.jpg">
+        <i class="text-center">God brought out the sun on Easter Sunday!</i>
+    </div>
+</div>
+<div class="row flex-lg-row-reverse align-items-center">
+    <div class="col-lg-6 my-4">
+        <h3>one third of the year down!</h3>
+            It's crazy to think I'm already 1/6 of the way through my apprenticeship! Thank you again for your partnership and praying with us through this time. So far I've preached once, completed a month of captivate kids (sunday school), a term of youth, read the Bible in plenty of 1:1 meets, and already been to more meetings than I can count. Outside of church we've also been to at least one wedding a month and caught up with many of you! Praise God for sustaining both myself and Bec through this time. As it continues to be busy, I am thankful to God for the fruitful work that he has put in our church. Pray that we would continue to sacrifice our time well and sustainably for many more years of ministry ahead.
+    </div>
+    <div class="col-lg-6 my-4 d-flex flex-column align-items-center">
+        <img class="blog-inline-image" src="/assets/images/2504APR/ferry.jpg">
+        <i class="text-center">Bec and I on a sunset ferry trip into the city for a wedding reception.</i>
+    </div>
+</div>
+<div class="row flex-lg-row">
+    <div class="col-lg-6 my-4">
+        <h3>reflections</h3>
+        <ul class="list-group list-group-flush">
+            <li class="list-group-item">- Preaching is very time consuming in preparation! But a lot of good preparation brings a sharper, more clear message to edify the church. My first draft was very long and not as coherent. As I spent more time refining my sermon and practising it, it became easier for me to speak with conviction and easier to absorb the content. I spent a decent amount of time in preparation because clear teaching from the Bible has been great in shaping how I've grown, and expository teaching from the Bible is a clear distinctive of the reformed tradition. I'm thankful that God has used me well in this opportunity.</li>
+            <li class="list-group-item">- Anything can happen! Ministry involves all of life, and anything can happen in life. A few external factors meant some of the staff team were off during the month and this made my own workload a bit busier and I found myself with less clear direction other than the immediate needs of things happening. In this time I found it helpful to continue to pray and look ahead to keep things in a gospel perspective as I serve.</li>
+            <li class="list-group-item">- Ministry can be slow if I work on the basis of one day a week to catch people. Sometimes I feel awkward shooting off a message without chatting to someone about it briefly with them on a Sunday beforehand. But Sundays are also packed with lots of ministry, and as a result I've found myself falling behind on some things because I'm slow to push on ahead. Let me know if you have any good tips for just shooting cold messages!</li>
+            <li class="list-group-item">- God works powerfully through his word. Even though I've found myself stretched and often wishing for more time, God is still at work regardless of my shortcomings. </li>
+        </ul>
+    </div>
+    <div class="col-lg-6 my-4">
+        <h3>prayer points</h3>
+        <ul class="list-group list-group-flush">
+            <li class="list-group-item">- <b>Preaching preparation</b>: I'm preaching twice in June in the book of Hebrews. You're invited to hear me at 9am on the 1st of June and 11am on the 22nd of June.</li>
+            <li class="list-group-item">- <b>A busy month of excursions</b>: I'm going to the SMBC children's ministry conference, reach Australia conference, and a week at Christ college with the other Presbyterian church METRO trainees. Pray for energy through this month to attend these events diligently thinking about ministry for the future, and not to treat it like fun "time off" the regular responsibilities. Pray that I won't fall behind and continue to persevere through many commitments.</li>
+            <li class="list-group-item">- <b>Youth ministry to continue to grow</b>: although the youth group is small pray that we'd continue to be faithful in teaching well and for many more to come to know Christ, including C who comes from a non-Christian family but prayed for the first time this term! Pray for us as we kick off in the book of Acts from this, that we'd all be convicted to live boldly for Christ.</li>
+            <li class="list-group-item">- <b>Sharing a location with another church</b>: The school where we do cap kids has also been rented out by a church to do their Sunday service. Pray for a good witness and easy logistics and safety sharing a site as I go into another month of leading at cap kids.</li>
+            <li class="list-group-item">- <b>Being a good witness</b>: As I reflect on Easter I've felt that in the busy-ness of ministry I've definitely slowed down on chatting and meeting up with my non-Christian friends outside of church. Pray that I'd be diligent in maintaining relationships with them. Pray for my time as I catch up with some ex-work friends at a wedding this month and for more opportunities to catch up and share with them the gospel.</li>
+        </ul>
+    </div>
+</div>
+<div class="row flex-lg-row">
+    <div class="col-lg-12 my-4 d-flex justify-content-center">
+    </div>
+</div>
+
+
+<div class="row flex-lg-row align-items-center">
+    <div class="col-lg-6 my-4">
+        <h3>🙏 Thank you again for your partnership in the gospel! Shoot through a message when you've prayed (even if it's just a "hey!") and let me know how I can be praying for you also! </h3>
+    </div>
+    <div class="col-lg-6 my-4 d-flex flex-column align-items-center">
+        <img class="blog-inline-image" src="/assets/images/2504APR/cake.jpg">
+        <i class="text-center">Bonus photo of blueberry and lemon cake that I helped Bec bake!</i>
+    </div>
+</div>
+
