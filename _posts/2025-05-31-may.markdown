@@ -1,0 +1,110 @@
+---
+layout: post
+title:  musters in may
+picture: "/assets/images/2505MAY/reach.jpg"
+date:   2025-06-05 00:00:01 +1100
+categories: update
+---
+<div class="row flex-lg-row align-items-center">
+    <div class="col-lg-6 my-4">
+        Thanks for your Gospel partnership! With your prayer and support, this month has been a fruitful season of ministry and growing. Apologies that this comes a little later than usual, I preached on the 1st and am preparing for preaching again on the 29th of this month. Here’s some highlights from May, and I’ve dropped some reflections and prayer points at the bottom.
+    </div>
+    <div class="col-lg-6 my-4 d-flex flex-column align-items-center">
+        <img class="blog-inline-image" src="/assets/images/2505MAY/brekky.jpg">
+        <i class="text-center">Hello from us having breakfast on our day off</i>
+    </div>
+</div>
+
+<div class="row flex-lg-row align-items-center">
+    <div class="col-lg-6 my-4">
+        <div class="blockquote-container">
+            <blockquote class="blockquote">
+                but Christ is faithful over God’s house as a son. And we are his house, if indeed we hold fast our confidence and our boasting in our hope.
+            </blockquote>
+            <figcaption class="blockquote-footer">
+                Hebrews 3:6
+            </figcaption>
+        </div>
+    </div>
+    <div class="col-lg-6 my-4 d-flex flex-column align-items-center">
+        I preached on Hebrews 3 this past Sunday, and throughout Hebrews it is very evident that Christ is greater over all things. My prayer for all of us is that we would continue to see Christ as the greatest, and Christ the faithful Son, that he would continue to be our confidence and our boasting in all seasons of life.
+    </div>
+</div>
+
+<div class="row flex-lg-row align-items-center">
+    <div class="col-lg-6 my-4">
+        <h3>SMBC childen’s ministry conference</h3>
+            To kick off the month, I went with the kid’s ministry team at church to the SMBC children’s ministry conference. We were able to think hard about different ways to teach the Bible faithfully to kids, and it was a great way for us to sharpen our ministry! I was able to go to workshops which helped me to think about how activities in a kid’s program can help engage with the Bible much more than we do already, and how we can teach children to share the gospel with their friends. The conference was super valuable for me as I continue to be challenged with how I can grow in children’s ministry - it's definitely difficult yet rewarding gospel work.
+    </div>
+    <div class="col-lg-6 my-4 d-flex flex-column align-items-center">
+        <img class="blog-inline-image" src="/assets/images/2505MAY/smbc.jpg">
+        <i class="text-center">Our lovely kid's ministry team!</i>
+    </div>
+</div>
+<div class="row flex-lg-row-reverse align-items-center">
+    <div class="col-lg-6 my-4">
+        <h3>METRO Christ college experience</h3>
+            As an apprentice in the Presbyterian church, I am sponsored through the METRO program and each year they have apprentices come to college to experience classes. I really enjoyed sitting in classes and seeing how and what the students learn, as well as what the campus looks like and what a week as a student looks like. I was encouraged to see how Christ college has thought very intentionally about graduate outcomes and teaching students to be deep theologically in both their knowledge and their leadership through their internship program. Their investment in the college gives me great confidence in the Presbyterian denomination to carry reformed ministry into the future.
+    </div>
+    <div class="col-lg-6 my-4 d-flex flex-column align-items-center">
+        <img class="blog-inline-image" src="/assets/images/2505MAY/christ-college.png">
+        <i class="text-center">Chilling at Christ college with the other apprentices</i>
+    </div>
+</div>
+<div class="row flex-lg-row align-items-center">
+    <div class="col-lg-6 my-4">
+        <h3>reach Australia national conference</h3>
+            Reach Australia is a network of churches which work together to support the development of churches and their leaders. This year their national conference was on the topic of mission in the church and what changes are needed for our churches to continue to be faithful in global mission. We went as a staff team along with two student ministers and were all challenged to think about the part that mission plays in our church. Personally I was moved to think about how important mission is for my own heart and how I need to continue to do God’s work, to glorify him and to see people saved, by Christ and in faith. It also helped me with a lot of different ideas for how our church teams can work in a way which is faithful to God and his people, yet warm and welcoming for non-Christians to hear his word.
+    </div>
+    <div class="col-lg-6 my-4 d-flex flex-column align-items-center">
+        <img class="blog-inline-image" src="/assets/images/2505MAY/reach.jpg">
+        <i class="text-center">The conference was at EV church Gosford, the auditorium seems to be very well acoustically engineered and the sound of hundreds in worship here was amazing!</i>
+    </div>
+</div>
+<div class="row flex-lg-row-reverse align-items-center">
+    <div class="col-lg-6 my-4">
+        <h3>preaching from Hebrews 3</h3>
+            This actually happened on the 1st of June, but most of my preparation happened in May. Between conferences I found myself with less time for preaching preparation, but the second time around was more expedient! Preaching from Hebrews was easier than John, but it may be that getting familiar with the process and task has helped. I really enjoyed the exegesis and preparation, and had a lot of fun preaching at our 9am service. The big idea for my sermon was to “Find confidence in considering the Son”. You can <a href="https://captivatechurch.org/sermons/hebrews-2-5-18-p6n3m">listen to my sermon here</a>.
+    </div>
+    <div class="col-lg-6 my-4 d-flex flex-column align-items-center">
+        <img class="blog-inline-image" src="/assets/images/2505MAY/preaching.jpg">
+        <i class="text-center">Many people said I dressed a bit like Alan Au that morning - but I think he dresses like me.</i>
+    </div>
+</div>
+<div class="row flex-lg-row">
+    <div class="col-lg-6 my-4">
+        <h3>reflections</h3>
+        <ul class="list-group list-group-flush">
+            <li class="list-group-item">- Meeting students at college who are studying full time reminded me that I need to continue to consider if I’m suitable for full time ministry and what I might do in the future. It’s easy to get caught up in “doing stuff” and getting it done, but I want to continue to be reflective, and evaluating myself, and inviting others to evaluate my ministry, to consider whether full time Gospel work is a good fit for me.</li>
+            <li class="list-group-item">- Stopping to work on myself slows down immediate work but is great in the long run - going to conferences made me feel a little behind, but the input I got from other people in sharpening ministries has already paid dividends, and the things I’ve learnt will continue to be useful in ministry for many years to come! We have so many awesome opportunities for being equipped in Sydney which is a great privilege, and I’ll continue to take those opportunities while I can! Please also consider how you can be equipping yourself for ministry even when life is busy.</li>
+            <li class="list-group-item">- Team leading is hard and largely unseen. As I’ve made myself more involved in a few different teams as a leader, I’ve found myself thinking through a lot of different scenarios and theological implications of how these teams function, but when it comes to execution a lot of those things aren’t as visible. Being a leader is often like being a coach on the sidelines, so I’m learning to remind myself that in this capacity the ministry is to the team first, and learning to love seeing the people on these teams serve God faithfully!</li>
+            <li class="list-group-item">- I have a lot to grow in for kid’s ministries. I’m not great at capturing the attention of a group of kids, and I’m finding it hard to manage a group of pre-schoolers for kid’s church. Whenever a leader steps in to help me with my group for a week I feel greatly inadequate. Pray for me to persevere in faithful service and growing myself in doing kids ministries, and pray that I wouldn’t be disheartened when comparing myself to many years of experience but rather praise God for the wisdom I can learn from! </li>
+        </ul>
+    </div>
+    <div class="col-lg-6 my-4">
+        <h3>prayer points</h3>
+        <ul class="list-group list-group-flush">
+            <li class="list-group-item">- <b>A heart for the lost</b>: As I continue in my apprenticeship I've found myself surrounded with a great number of Christian friends, but pray that I'd continue to persevere in relationships outside of church. Praise God for a few opportunities last month where I've been able to witness to old work friends and my own family, and pray that those opportunities would keep coming and that I'd use them well.</li>
+            <li class="list-group-item">- <b>Holiday kid's club</b>: I'll be working on board with the kid's ministry team to help lead our holiday kid's club happening in the winter school holidays! It already seems to be a large project, pray that I'd be able to manage my time well, and pray for the many kids including many non-Christian families who we will be engaging with.</li>
+            <li class="list-group-item">- <b>Preaching preparation</b>: I'm preaching for the second time this month on the 29th of June on Hebrews 6. You're welcome to come to our 11am service! Pray for my time as I prepare, and pray that I'd be bold in inviting friends and family to come along.</li>
+            <li class="list-group-item">- <b>Being a good witness</b>: As I reflect on Easter I've felt that in the busy-ness of ministry I've definitely slowed down on chatting and meeting up with my non-Christian friends outside of church. Pray that I'd be diligent in maintaining relationships with them. Pray for my time as I catch up with some ex-work friends at a wedding this month and for more opportunities to catch up and share with them the gospel.</li>
+            <li class="list-group-item">- <b>Becoming parents</b>: please pray for us as we're expecting in early August and still making preparations. Pray especially that our child will know and love Jesus for all of life!</li>
+        </ul>
+    </div>
+</div>
+<div class="row flex-lg-row">
+    <div class="col-lg-12 my-4 d-flex justify-content-center">
+    </div>
+</div>
+
+
+<div class="row flex-lg-row align-items-center">
+    <div class="col-lg-6 my-4">
+        <h3>🙏 Thank you again for your partnership in the gospel! Shoot through a message when you've prayed (even if it's just a "hey!") and let me know how I can be praying for you also! </h3>
+    </div>
+    <div class="col-lg-6 my-4 d-flex flex-column align-items-center">
+        <img class="blog-inline-image" src="/assets/images/2505MAY/coffee.jpg">
+        <i class="text-center">Seahorse latte art from the tame fox, Erina</i>
+    </div>
+</div>
+
