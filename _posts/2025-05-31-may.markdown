@@ -37,7 +37,7 @@ categories: update
             To kick off the month, I went with the kid’s ministry team at church to the SMBC children’s ministry conference. We were able to think hard about different ways to teach the Bible faithfully to kids, and it was a great way for us to sharpen our ministry! I was able to go to workshops which helped me to think about how activities in a kid’s program can help engage with the Bible much more than we do already, and how we can teach children to share the gospel with their friends. The conference was super valuable for me as I continue to be challenged with how I can grow in children’s ministry - it's definitely difficult yet rewarding gospel work.
     </div>
     <div class="col-lg-6 my-4 d-flex flex-column align-items-center">
-        <img class="blog-inline-image" src="/assets/images/2505MAY/smbc.jpg">
+        <img class="blog-inline-image" src="/assets/images/2505MAY/smbc.png">
         <i class="text-center">Our lovely kid's ministry team!</i>
     </div>
 </div>
