@@ -1,0 +1,108 @@
+---
+layout: post
+title:  june-july jubilations
+picture: "/assets/images/2506JUN/fam.png"
+date:   2025-08-01 00:00:01 +1100
+categories: update
+---
+<div class="row flex-lg-row align-items-center">
+    <div class="col-lg-6 my-4">
+        Thank you again for your partnership in the Gospel. This is a late update because I took parental leave earlier than expected in July! Here’s some highlights from June and July, and I’ve dropped some reflections and prayer points at the bottom.
+    </div>
+    <div class="col-lg-6 my-4 d-flex flex-column align-items-center">
+        <img class="blog-inline-image" src="/assets/images/2506JUN/first-day.jpg">
+        <i class="text-center">Hello from the office on my first day back</i>
+    </div>
+</div>
+
+<div class="row flex-lg-row align-items-center">
+    <div class="col-lg-6 my-4">
+        <div class="blockquote-container">
+            <blockquote class="blockquote">
+                I have been crucified with Christ. It is no longer I who live, but Christ who lives in me. And the life I now live in the flesh I live by faith in the Son of God, who loved me and gave himself for me.
+            </blockquote>
+            <figcaption class="blockquote-footer">
+                Galatians 2:20
+            </figcaption>
+        </div>
+    </div>
+    <div class="col-lg-6 my-4 d-flex flex-column align-items-center">
+        For youth in term three we’re going through Galatians, and as I reflect on new life I’ve been reminded that there really is no real life other than Christ in his people. My prayer is that we would all continue to live by faith in Christ who died for us.
+    </div>
+</div>
+
+<div class="row flex-lg-row align-items-center">
+    <div class="col-lg-6 my-4">
+        <h3>welcoming new life</h3>
+        We are so thankful to God for our beautiful daughter Emmeline who surprised us by arriving four weeks early! She had a rare foetal heart condition and treatment for it was for her to come early. We spent a bit over a week in hospital but we’re all going well now! We are thankful for all the healthcare workers who helped us along the way, and she is now doing well with no issues. Emmeline means brave, strong, and hardworking—in reflection of her early debut in life, perseverance throughout, and our prayer that she would also serve the Lord our God with that same strength. We thank God for all of you who have prayed for us and helped us so generously in these last few weeks.
+    </div>
+    <div class="col-lg-6 my-4 d-flex flex-column align-items-center">
+        <img class="blog-inline-image" src="/assets/images/2506JUN/emme.jpg">
+        <i class="text-center">Emme being confused about having arms</i>
+    </div>
+</div>
+<div class="row flex-lg-row-reverse align-items-center">
+    <div class="col-lg-6 my-4">
+        <h3>gospel workers’ roundtable</h3>
+            Throughout the year captivate has a regular meeting for people to consider full time gospel work, and for June it was our apprenticeship info night. It’s already been 6 months since I started so I’m 1/4 of the way through my apprenticeship! I was able to share about unexpected blessings and difficulties so far, and also why it’s worth considering a ministry apprenticeship. This was a great opportunity for me to reflect and share about how there is no greater joy than to serve our God, and having the opportunity to do that full time and be trained at our local church is just such a great privilege which we can’t take for granted. Please keep praying for our church to have a culture of training people for a lifetime of gospel work!
+    </div>
+    <div class="col-lg-6 my-4 d-flex flex-column align-items-center">
+        <img class="blog-inline-image" src="/assets/images/2506JUN/gwrt.jpg">
+        <i class="text-center">up the front with Rad in peak footwear</i>
+    </div>
+</div>
+<div class="row flex-lg-row align-items-center">
+    <div class="col-lg-6 my-4">
+        <h3>emu music word in song</h3>
+            Captivate (and I’m sure many other churches) have tech teams which consist of people who are trained on the job by someone who knows a little about how the tech works. We’ve found as church continues to grow we want our production team to grow and match the energy of the congregation, and so we need to continue to sharpen and practice our craft, just like the worship band does! I went with three others from our tech team to the emu music word in song conference, which is a conference for training churches in practical skills to serve their congregations better in music and song. We went for the sound workshops which covered a lot of technical sound setup and mixing techniques and it helped us to better understand the gear that we were working with rather than a lot of the guesswork to make it sound right which we had been doing before. With what we learnt the tech team were also able to run a sound workshop at church for all of the tech team!
+    </div>
+    <div class="col-lg-6 my-4 d-flex flex-column align-items-center">
+        <img class="blog-inline-image" src="/assets/images/2506JUN/emu-wis.jpg">
+        <i class="text-center">staff from Turramurra music ran the sound workshop!</i>
+    </div>
+</div>
+<div class="row flex-lg-row-reverse align-items-center">
+    <div class="col-lg-6 my-4">
+        <h3>preaching from Hebrews 6</h3>
+            I was able to preach twice in June! I preached from Hebrews 3 on the first Sunday and Hebrews 6 on the last. It was awesome to look so deeply into the book of Hebrews, and it has helped me to continue to see how Jesus really is better than anything else in my life. It was challenging to prepare another sermon just after preaching one, but practicing the process has been beneficial in equipping me to continue to preach faithfully and clearly. My big idea from Hebrews 6 was to see Jesus who brings a better promise and better hope for our lives today. You can <a href="https://captivatechurch.org/sermons/hebrews-6-13-20">listen to my sermon here</a>.
+    </div>
+    <div class="col-lg-6 my-4 d-flex flex-column align-items-center">
+        <img class="blog-inline-image" src="/assets/images/2506JUN/preaching.jpg">
+        <i class="text-center">working on looking up at people as I preach</i>
+    </div>
+</div>
+<div class="row flex-lg-row">
+    <div class="col-lg-6 my-4">
+        <h3>reflections</h3>
+        <ul class="list-group list-group-flush">
+            <li class="list-group-item">- lots of things happen outside of our own control, but God is sovereign over all, and we can trust him even through our anxieties. We found out on a Tuesday morning that Emmeline would have to be delivered as soon as possible, and even then there was a lot of unknown about how well or unwell she might be when she comes. We spent quite a bit of time in NICU and on the cardiology ward for breathing support and lots of heart scans. Nothing that we had originally planned happened, we had to go to a different hospital, we couldn’t stay with her in NICU, we didn’t even get to finish the birthing classes. Yet at the end of it all we’re thankful how God has provided many people at each stage along the way to help us and also sustained Emmeline through this time.  Her name means brave, strong, and hardworking—in reflection of her early debut in life, perseverance throughout, and our prayer that she would also serve the Lord our God with that same strength.</li>
+            <li class="list-group-item">- Coaching and investing in leaders is great fruit for the gospel. As I adjusted to a new job and new responsibilities I was a bit slow to pick up meeting with leaders and investing in people to lead teams, but our heightened evangelism season and our soon to come baby were good catalysts for me to work with the leaders on three different teams that I oversee. There is still a lot more time to be invested in them but the short time that I did get to work with them meant that as I went on leave earlier than expected our teams have been performing well over our mission season!</li>
+            <li class="list-group-item">- We all need to continually reflect and assess how we can be serving God with what we have been given. As I head into the second half of the year I want to continue to make best of the opportunity I’ve been given to be trained as you all support and partner with me. When I shared at our apprenticeship info night I felt really encouraged and spurred on in my reflections that this apprenticeship really has been a fruitful time for me so far in being equipped for gospel work for the rest of my life, no matter where I might find myself in the future! I think for all of us, whether in lay or paid ministry, it is important to continue to consider how we can be growing in our service of God. </li>
+        </ul>
+    </div>
+    <div class="col-lg-6 my-4">
+        <h3>prayer points</h3>
+        <ul class="list-group list-group-flush">
+            <li class="list-group-item">- Pray that as a father I would lead our family well and continue to lay down my life for Bec. For Emmeline to know and love our Lord Jesus Christ, and that we might all continue to point one another to him. We want our family to be centred around Jesus!</li>
+            <li class="list-group-item">- That I would continue to use my apprenticeship well, especially as I’ve just come back from parental leave, for me to balance my responsibilities and prioritise time well. </li>
+            <li class="list-group-item">- Praise God for so many people who are willing to serve at Captivate, but pray that we would be equipping them effectively to serve with their gifts and for those who lead to do so with a heart to see their teams serving God well—not just get the task done.</li>
+            <li class="list-group-item">- Youth kicks off again for term 3 in Galatians. Pray for this keen bunch of youth to keep growing and maturing in their love for God. Pray especially for two non-Christian boys who are coming this term, that they might come to know Jesus.</li>
+        </ul>
+    </div>
+</div>
+<div class="row flex-lg-row">
+    <div class="col-lg-12 my-4 d-flex justify-content-center">
+    </div>
+</div>
+
+
+<div class="row flex-lg-row align-items-center">
+    <div class="col-lg-6 my-4">
+        <h3>🙏 Thank you again for your partnership in the gospel! Shoot through a message when you've prayed (even if it's just a "hey!") and let me know how I can be praying for you also! </h3>
+    </div>
+    <div class="col-lg-6 my-4 d-flex flex-column align-items-center">
+        <img class="blog-inline-image" src="/assets/images/2506JUN/bike.jpg">
+        <i class="text-center">moving 2nd hand furniture by bicycle</i>
+    </div>
+</div>
+
