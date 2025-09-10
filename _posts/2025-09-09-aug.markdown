@@ -1,0 +1,111 @@
+---
+layout: post
+title:  acclimatisation in august
+picture: "/assets/images/2508AUG/westmead.jpg"
+date:   2025-09-10 00:00:01 +1100
+categories: update
+---
+<div class="row flex-lg-row align-items-center">
+    <div class="col-lg-6 my-4">
+        Thank you again for your Gospel partnership! With your prayer and support I have been settling in well back to ministry and adjusting well to being a father (although it's still somewhat getting the better of me as I send this update late.) As usual here’s some highlights from this month, and I’ve dropped some reflections and prayer points at the bottom. 
+    </div>
+    <div class="col-lg-6 my-4 d-flex flex-column align-items-center">
+        <img class="blog-inline-image" src="/assets/images/2508AUG/westmead.jpg">
+        <i class="text-center">Hello from our checkup at westmead childrens - everything looked fine and healthy, and Emmeline is doing well!</i>
+    </div>
+</div>
+
+<div class="row flex-lg-row align-items-center">
+    <div class="col-lg-6 my-4">
+        <div class="blockquote-container">
+            <blockquote class="blockquote">
+                for he has said, “I will never leave you nor forsake you.” So we can confidently say,<br>
+                &emsp;“The Lord is my helper;<br>
+                &emsp;I will not fear;<br>
+                &emsp;what can man do to me?”<br>
+            </blockquote>
+            <figcaption class="blockquote-footer">
+                Hebrews 13:5b–6
+            </figcaption>
+        </div>
+    </div>
+    <div class="col-lg-6 my-4 d-flex flex-column align-items-center">
+        Our church is about to finish up our series in the book of Hebrews! It has been a massive book that has carried us through most of the year, and as we see the end in sight I’m reminded of how Jesus really is better than everything else in my life, and knowing that he is with me continues to push me onward to live for his name every day. My prayer is that we would all continue to live without fear knowing that Christ is with us wherever we find ourselves, whether that be in a place of joy or hardships.
+    </div>
+</div>
+
+<div class="row flex-lg-row align-items-center">
+    <div class="col-lg-6 my-4">
+        <h3>staff retreat</h3>
+        We kicked off the month heading off to Newcastle as a staff team to reflect on the year so far and plan for the year ahead (and the nine after!) I continue to be encouraged working with a faithful team that I can learn from, I keep getting pushed to think at a higher level as a leader to help church and the individual people in it grow. Working with the staff team to not only get ministry done but to plan for years ahead has challenged me to think about how to be a faithful leader who uses the resources which God has provided us with effectively, and I'm excited to think about where God will take captivate over the years and also how God has been growing me for his kingdom.
+    </div>
+    <div class="col-lg-6 my-4 d-flex flex-column align-items-center">
+        <img class="blog-inline-image" src="/assets/images/2508AUG/staff-retreat.jpeg">
+        <i class="text-center">mexican for dinner with the team</i>
+    </div>
+</div>
+<div class="row flex-lg-row-reverse align-items-center">
+    <div class="col-lg-6 my-4">
+        <h3>captivate youth</h3>
+        Thanks for praying for the youth! We have been going through the book of Galatians, learning about how the gospel is all or nothing—it’s perfect for our faith and salvation, but adding anything legalistic to it would mean no good news at all. The term so far has been a fruitful time, we’ve had a few unexpected visitors who have heard the gospel from the book of Galatians! Praise God for one of the youth, A, who has started coming regularly this term of his own desire, and he continues to reflect on what the Bible means for his life and has a desire to know God better. He even started coming to church and caught public transport by himself to get there! We’ve also started planning for term 4 in the book of Jonah and fitting in some evangelistic opportunities as well as a prayer and praise event to close off the year!
+    </div>
+    <div class="col-lg-6 my-4 d-flex flex-column align-items-center">
+        <img class="blog-inline-image" src="/assets/images/2508AUG/youth.png">
+        <!-- <i class="text-center">up the front with Rad in peak footwear</i> -->
+    </div>
+</div>
+<div class="row flex-lg-row align-items-center">
+    <div class="col-lg-6 my-4">
+        <h3>membership team</h3>
+        I am part of the membership team which works on discipling our church members through seeing them connected and committed to our local expression of God’s church. This month we’ve been working on a new hospitality initiative called table for eight, where we’ve just organised smaller gatherings of church lunches to happen this Sunday at different people’s homes with different people mixed up! I’m also working on our baptism and membership classes coming up, praise God for two people who are keen on being baptised including one of the youth!
+    </div>
+    <div class="col-lg-6 my-4 d-flex flex-column align-items-center">
+        <img class="blog-inline-image" src="/assets/images/2508AUG/Table-for-8.png">
+        <i class="text-center">the first graphic for when this was announced had 9 chairs</i>
+    </div>
+</div>
+<div class="row flex-lg-row-reverse align-items-center">
+    <div class="col-lg-6 my-4">
+        <h3>being a father</h3>
+        Thanks for praying for us. Parenthood has been a wild journey, and while I knew that I’d never be fully prepared to be a father God continues to surprise me and teach me new things. I am still learning what it means to be a husband, a father, and a faithful gospel teacher. This past month has been a lot of acclimatising to being busier more than ever before with the least consistent sleep I’ve ever had in my life. I’ve continued to be humbled in this time and reminded of my own limitations and my weaknesses, yet there is an overwhelming joy to see how God has created this beautiful child of ours. As we look ahead we continue to trust in God to grow and sustain her, and ultimately save her for his glory.
+    </div>
+    <div class="col-lg-6 my-4 d-flex flex-column align-items-center">
+        <img class="blog-inline-image" src="/assets/images/2508AUG/bathtime.jpg">
+        <i class="text-center">Emme being unusually calm for bathtime (she immediately started crying right after this photo)</i>
+    </div>
+</div>
+<div class="row flex-lg-row">
+    <div class="col-lg-6 my-4">
+        <h3>reflections</h3>
+        <ul class="list-group list-group-flush">
+            <li class="list-group-item">- I need to continue on working on leading myself to use my time better—to be a better husband, father, and leader. It’s easy when it gets busy to just do what I need to do and get by, but I’ve found it helpful to continue to think hard about setting my sights on who I want to grow to be, why, and how I can be doing that now. As I continue to look to Jesus, God gives me energy to see the sacrifices that are made now are for my growth and ultimately for God’s glory.</li>
+            <li class="list-group-item">- God has been gracious in gathering a faithful and gifted team here at captivate. It is so easy to work alongside the staff team, the elders, and the lay leaders, because they’re all switched on for the gospel. There’s so much to learn from this bank of wisdom and I need to keep looking to what I can learn in my time as an apprentice here!</li>
+            <li class="list-group-item">- God has been teaching us to trust him more. When your sleep is bad and there’s so many things not yet done, I’m reminded of my weak and fragile body and how only God sustains us.</li>
+        </ul>
+    </div>
+    <div class="col-lg-6 my-4">
+        <h3>prayer points</h3>
+        <ul class="list-group list-group-flush">
+            <li class="list-group-item">- For energy and God’s wisdom to keep being a leader of my family.</li>
+            <li class="list-group-item">- For the youth, that they’d continue to be challenged by God’s word in Galatians, and they’re going to KYCK this term along with a few non regulars who have signed up! Pray that it would be a great time of fellowship around God’s word and they’d be challenged to live for him.</li>
+            <li class="list-group-item">- I’m preparing to preach at SOW this month from 2 Timothy which Radman and I have put a series together for! Pray for time management, energy, and wisdom to preach faithfully, and pray that the students would be shaped and transformed by God’s word.</li>
+            <li class="list-group-item">- For our church! There’s a lot planned for next year, and we’re already enacting some in this next month thinking about how we support people serving in lay ministry well and check up on them. Pray that we’d be invested in discipling and growing people for God’s kingdom as they give up their time to serve at church, and not just take their service for granted.</li>
+        </ul>
+    </div>
+</div>
+<div class="row flex-lg-row">
+    <div class="col-lg-12 my-4 d-flex justify-content-center">
+    </div>
+</div>
+
+
+<div class="row flex-lg-row align-items-center">
+    <div class="col-lg-6 my-4">
+        <h3>🙏 Thank you again for your partnership in the gospel! Shoot through a message when you've prayed (even if it's just a "hey!") and let me know how I can be praying for you also! </h3>
+    </div>
+    <div class="col-lg-6 my-4 d-flex flex-column align-items-center">
+        <img class="blog-inline-image" src="/assets/images/2508AUG/spring.jpg">
+        <i class="text-center">spring on my commute to the office</i>
+    </div>
+</div>
+
