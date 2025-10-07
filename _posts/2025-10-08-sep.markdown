@@ -1,0 +1,108 @@
+---
+layout: post
+title:  a swift september
+picture: "/assets/images/2509SEP/cover.jpg"
+date:   2025-09-10 00:00:01 +1100
+categories: update
+---
+<div class="row flex-lg-row align-items-center">
+    <div class="col-lg-6 my-4">
+        Thank you again for your Gospel partnership. Can you believe it, we’re already 3/4 of the way through the year and there’s less than 80 days till Christmas! With your prayer and support I’ve had a busy September, and I’m in the thick of it for another busy month! As usual here’s some highlights from this month, and I’ve dropped some reflections and prayer points at the bottom. 
+    </div>
+    <div class="col-lg-6 my-4 d-flex flex-column align-items-center">
+        <img class="blog-inline-image" src="/assets/images/2509SEP/cover.jpg">
+        <i class="text-center">Hello from us at a Emme's first wedding!</i>
+    </div>
+</div>
+
+<div class="row flex-lg-row align-items-center">
+    <div class="col-lg-6 my-4">
+        <div class="blockquote-container">
+            <blockquote class="blockquote">
+                Do your best to present yourself to God as one approved, a worker who has no need to be ashamed, rightly handling the word of truth.
+            </blockquote>
+            <figcaption class="blockquote-footer">
+                2 Timothy 2:15
+            </figcaption>
+        </div>
+    </div>
+    <div class="col-lg-6 my-4 d-flex flex-column align-items-center">
+        I am preaching from 2 Timothy 2 in two weeks, and through this passage I’ve continued to be challenged to handle the word of truth carefully. This passage continues to exhort Timothy further, to not only speak the truth but also to live it out—to depart from iniquity and pursue God’s righteousness. My prayer for us is that we would not only know God’s truth, but also to live it out for all of life.
+    </div>
+</div>
+
+<div class="row flex-lg-row align-items-center">
+    <div class="col-lg-6 my-4">
+        <h3>hanging out with babies</h3>
+        This year at captivate we’ve already had more than 10 newborns, and the majority of them are firstborns! Praise God for how he gives life and is growing our church. In this new season of life for us we’ve found it a great opportunity to minister to other parents. We’ve had many parents and babies over, and dropped by to visit other parents too. This season has given me a great appreciation for the many different challenges that mums and dads face, and I’m super thankful to God for all these people that he’s put in our lives, and being able to see so many little ones grow up!
+    </div>
+    <div class="col-lg-6 my-4 d-flex flex-column align-items-center">
+        <img class="blog-inline-image" src="/assets/images/2509SEP/baby.jpg">
+        <i class="text-center">sun protection is a serious issue</i>
+    </div>
+</div>
+<div class="row flex-lg-row-reverse align-items-center">
+    <div class="col-lg-6 my-4">
+        <h3>gospel worker’s round table</h3>
+        Another quarter and another gospel worker’s round table—this time we combined forces with Epping Presbyterian Church! I was able to share alongside Rad and Josiah about how our apprenticeships have been going. I was able to share some of the reflections that I share here in my letters, like how I’ve continued to be tested and coached to be a better leader for my family and at church. Praise God also for Captivate’s third apprentice joining next year!
+    </div>
+    <div class="col-lg-6 my-4 d-flex flex-column align-items-center">
+        <img class="blog-inline-image" src="/assets/images/2509SEP/gwrt.jpg">
+        <i class="text-center">none of us confidently know what to do with our hands</i>
+    </div>
+</div>
+<div class="row flex-lg-row align-items-center">
+    <div class="col-lg-6 my-4">
+        <h3>membership team</h3>
+        I shared last month about two opportunities, both have come and gone and were a smashing success! There was a great number of people who hosted and welcomed strangers into their homes at our table for eight lunches, heaps of people really appreciated getting to meet new people, lots of food was shared, and lots of encouraging conversations were had! Our Baptism and membership classes have also wrapped up, and we were encouraged by everyone who came along and was able to share about different ways in which they have grown and been encouraged in their time at church. There was lots of reflecting and thankfulness for how God has been at work in their lives, and I’m super thankful that I was able to be a part of helping them reflect and articulate those stories. I felt a little rushed in the leadup and felt like a bother having to message people and ask them to signup to come, but as it all came together it felt like it was all worth it! We are now looking ahead till November to see the baptisms happen and for our new members to be welcomed. 
+    </div>
+    <div class="col-lg-6 my-4 d-flex flex-column align-items-center">
+        <img class="blog-inline-image" src="/assets/images/2509SEP/tf8.jpeg">
+        <i class="text-center">had to bring out a second table to fit everyone!</i>
+    </div>
+</div>
+<div class="row flex-lg-row-reverse align-items-center">
+    <div class="col-lg-6 my-4">
+        <h3>youth</h3>
+        Thank you for praying for our youth group! I wasn’t able to join them for KYCK but the youth (and the leaders) had a hectic time. Praise God for one of the youth who had started coming to youth last term responded to the gospel at KYCK and now calls himself a Christian! I’ve also been able to smash out a few program items and our series in Jonah as we head into term 4. I continue to be challenged to think hard about how to not only be faithful in the exegesis, but also how all of the program can be shaped to mature and encourage the youth.
+    </div>
+    <div class="col-lg-6 my-4 d-flex flex-column align-items-center">
+        <img class="blog-inline-image" src="/assets/images/2509SEP/capyouth.png">
+        <i class="text-center">youth having the time of their lives without me</i>
+    </div>
+</div>
+<div class="row flex-lg-row">
+    <div class="col-lg-6 my-4">
+        <h3>reflections</h3>
+        <ul class="list-group list-group-flush">
+            <li class="list-group-item">- Keep loving and living the truth—as I type this prayer letter I’m in the thick of it and feel like it’s the busiest its ever been! My time in 2 Timothy however has reminded me that I need to rightly handle the word of truth, which means not only doing a faithful job of interpreting it but also loving it and living it out in my own life. For there is no greater joy in life than to live God’s way!</li>
+            <li class="list-group-item">- Parenting has a lot of different challenges—I knew that parenting would be hard and that I’d never be ready, but as I talk to other parents I realise there’s a lot, lot more problems and challenges that come up, and it’s never easy nor is it ever the same for subsequent children. I’ve been challenged to think about how best to serve and love parents at church, to be patient and caring yet exhorting and encouraging them to continue in fellowship with church.</li>
+            <li class="list-group-item">- Being paid to do ministry is a license to be a bother—I’ve left a lot of things to drag on, waiting for the right opportunities to catch people in person and say the right things that my words and requests might be pleasing to people, but there is also a limitation for how often I see people and when I can catch them (especially as some people I only see once a week on Sunday.) I’ve realised that people are actually ok with me messaging or calling them, and in some cases messaging people sooner rather than kicking the conversation down the line is the more loving thing to do—even if it’s not mypreferred way for me to communicate.</li>
+        </ul>
+    </div>
+    <div class="col-lg-6 my-4">
+        <h3>prayer points</h3>
+        <ul class="list-group list-group-flush">
+            <li class="list-group-item">- This month I’m preaching two sermons from 2 Timothy at SOW! Please continue to pray for my preparation and preaching practice. I want to continue to grow in my preparation process from exegesis to preaching, and want to use these opportunities well despite the busy-ness surrounding these two weeks that I’m preaching.</li>
+            <li class="list-group-item">- Pray that I would be a loving minister and friend to many other parents at captivate. This season of life has been a great opportunity to be able to chat with parents and especially dads, to check in with how they’re going and encourage them. Pray that I’d have wisdom in spurring these other parents on to continue to have Jesus at the center of their lives, even when they’re getting the least sleep ever in their lives.</li>
+            <li class="list-group-item">- Keep praying for our youth as term kicks off, we’re starting in the book of Jonah! Through this book we want the youth to see how God is sovereign in showing his grace to who he pleases, even to us, who, like Jonah are inclined to run away from God and his good ways.</li>
+            <li class="list-group-item">- I’ll (hopefully) be going to my old high school for scripture and their ISCF lunch group starting this new school term. Pray for good opportunities, fellowship, conversation, and relationships with new youth who I’ve never met before!</li>
+        </ul>
+    </div>
+</div>
+<div class="row flex-lg-row">
+    <div class="col-lg-12 my-4 d-flex justify-content-center">
+    </div>
+</div>
+
+
+<div class="row flex-lg-row align-items-center">
+    <div class="col-lg-6 my-4">
+        <h3>🙏 Thank you again for your partnership in the gospel! Shoot through a message when you've prayed (even if it's just a "hey!") and let me know how I can be praying for you also! </h3>
+    </div>
+    <div class="col-lg-6 my-4 d-flex flex-column align-items-center">
+        <img class="blog-inline-image" src="/assets/images/2509SEP/ride.jpg">
+        <i class="text-center">more spring on another ride, it's wisteria season!</i>
+    </div>
+</div>
+
