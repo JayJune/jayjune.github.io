@@ -20,7 +20,7 @@ layout: default
       {%- for post in site.posts -%}
       <li>
         <div class="row flex-lg-row align-items-center">
-          <div class="col-lg-6 my-4">
+          <div class="col-lg-6 my-4 justify-content-end" style="display: flex;">
             <a href="{{ post.url | relative_url }}">
               <img class="blog-inline-image" src="{{ post.picture }}">
             </a>
