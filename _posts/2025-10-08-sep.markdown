@@ -63,7 +63,7 @@ categories: update
 </div>
 <div class="row flex-lg-row-reverse align-items-center">
     <div class="col-lg-6 my-4">
-        <h3>youth</h3>
+        <h3>captivate youth</h3>
         Thank you for praying for our youth group! I wasn’t able to join them for KYCK but the youth (and the leaders) had a hectic time. Praise God for one of the youth who had started coming to youth last term responded to the gospel at KYCK and now calls himself a Christian! I’ve also been able to smash out a few program items and our series in Jonah as we head into term 4. I continue to be challenged to think hard about how to not only be faithful in the exegesis, but also how all of the program can be shaped to mature and encourage the youth.
     </div>
     <div class="col-lg-6 my-4 d-flex flex-column align-items-center">
