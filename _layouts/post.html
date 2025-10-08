@@ -8,7 +8,11 @@ layout: default
     <p class="text-muted">
       <time datetime="{{ page.date | date_to_xmlschema }}">
         {%- assign date_format = "%b %-d, %Y" -%}
-        {{ page.date | date: date_format }}
+        {%- if page.title == "a swift september" -%}
+          {{ "2025-10-08 00:00:01 +1100" | date: date_format }}
+        {% else %}
+          {{ page.date | date: date_format }}
+        {%- endif -%}
       </time>
       {%- if page.author -%}
         • {{ page.author }}
