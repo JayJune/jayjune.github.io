@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  october’s observations 
-picture: "/assets/images/2510OCT/sow-preaching.jpg"
+picture: "/assets/images/2510OCT/sow-photo.jpg"
 date:   2025-11-03 00:00:01 +1100
 categories: update
 ---
@@ -67,10 +67,10 @@ categories: update
 <div class="row flex-lg-row-reverse align-items-center">
     <div class="col-lg-6 my-4">
         <h3>norming on sundays</h3>
-        This past month was probably also the busiest for Sundays for me, I was able to serve twice on the welcoming team, service lead twice, and be on kid’s church where I lead the preschoolers. Praise God for having equipped me to juggle these tasks as well as sustaining me through this time, I definitely feel that this year has been fruitful in growing my capacity to do more and competency such that I’m feeling quite comfortable with this broad range of tasks and it all feels pretty routine and (almost) second nature.
+        This past month was probably also the busiest for Sundays for me, I was able to serve twice on the welcoming team, service lead twice, and be on kid’s church where I lead the preschoolers. Praise God for having equipped me to juggle these tasks, as well as sustaining me through this time. I definitely feel that this year has been fruitful in God growing my capacity and competency such that I’m feeling quite comfortable with a broad range of tasks, and it all feels pretty routine and (almost) second nature.
     </div>
     <div class="col-lg-6 my-4 d-flex flex-column align-items-center">
-        <img class="blog-inline-image" src="/assets/images/2510OCT/capyouth.png">
+        <img class="blog-inline-image" src="/assets/images/2510OCT/desk.jpg">
         <i class="text-center">what my desk looks like during the week</i>
     </div>
 </div>
@@ -79,9 +79,9 @@ categories: update
         <h3>reflections</h3>
         <ul class="list-group list-group-flush">
             <li class="list-group-item">- Being organised saves a lot of energy when things are busy—putting in the extra effort to be organised with my tasks early on has been paying off well as I handle lots of different responsibilities, I spend less time having to think about what to work on and it helps me stay grounded as I have a good idea of what I’m doing and how it serves the gospel.</li>
-            <li class="list-group-item">- Repeating the same task (even if hard) goes a long way for growing! Preaching twice in a row helped me with my confidence and delivery for the second time, likewise as I service lead two weeks in a row, and it’s also definitely the story when it comes to kid’s church. All of these things I have definitely felt that God has grown me through persevering in these ministries as he prepares me for a lifetime of ministry!</li>
+            <li class="list-group-item">- Repeating the same task (even if hard) goes a long way for growing! Preaching twice in a row helped me with my confidence and delivery for the second time, likewise with service leading and kid’s church. In all of these things I have definitely felt that God has grown me through persevering in these ministries as he prepares me for a lifetime of ministry!</li>
             <li class="list-group-item">- Keep loving the word even when it’s busy. It’s important for me (and for all of us) to spend time in God’s word no matter how busy it is. I’ve felt this in the busy-ness of getting stuff done it’s easy to just try to get work done, but as I preached on 2 Timothy I was challenged to keep letting the word shape me. Handling the word of truth carefully is not only exegeting and preaching well, but also letting that word of truth dwell in my heart and change me.</li>
-            <li class="list-group-item">- Leading well serves the gospel well, I have definitely benefitted in being led and trained well, and I see that across so many ministry teams at captivate. I have also seen that at work as I coach other leaders of teams at church—God has been gracious in equipping these people well to serve him for his glory!</li>
+            <li class="list-group-item">- Leading well serves the gospel well! I have definitely benefitted in being led and trained well over many years, and I see this also across many ministry teams at captivate! I am thankful for the team leaders that I meet up with as God has been gracious in equipping these people well to serve him for his glory!</li>
         </ul>
     </div>
     <div class="col-lg-6 my-4">
@@ -89,8 +89,9 @@ categories: update
         <ul class="list-group list-group-flush">
             <li class="list-group-item">- Our church is starting our series in the Song of Solomon - pray for wisdom and faithfulness as I will be preaching one week and leading Bible studies throughout!</li>
             <li class="list-group-item">- For our youth group in finishing up the book of Jonah, pray that they’d continue to be struck by the depth’s of God’s grace, and for our two evangelistic social events that we’re running at the end of the month!</li>
-            <li class="list-group-item">- Our welcoming team has our biannual rally this month which I am working on with the other welcoming team leaders! Pray for the team in faithfully cultivating a welcoming culture at church and what that looks like for many changes coming up in 2026.</li>
             <li class="list-group-item">- Our church has Baptism and membership coming up this month! Praise God three people who have come to Christ through ministry at captivate including one youth who has grown up through the kids ministry and who is ready to profess God’s faithfulness to him! </li>
+            <li class="list-group-item">- Our welcoming team has our biannual rally this month which I am working on with the other welcoming team leaders! Pray for the team in faithfully cultivating a welcoming culture at church and what that looks like for many changes coming up in 2026.</li>
+            <li class="list-group-item">- Pray for the many other teams across captivate as we plan for 2026 as we approach big changes happening next year! In particular I'll be planning with the tech team, welcoming team, and production setup teams.</li>
         </ul>
     </div>
 </div>
