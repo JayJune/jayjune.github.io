@@ -1,0 +1,117 @@
+---
+layout: post
+title:  nudging forward in november 
+picture: "/assets/images/2511NOV/10years.jpg"
+date:   2025-12-12 00:00:01 +1100
+categories: update
+---
+<div class="row flex-lg-row align-items-center">
+    <div class="col-lg-6 my-4">
+        Apologies that this comes late. Thanks again for your partnership in the gospel! With your prayer and support I’ve had a super busy November, and I’m keen to round off the year in our Christmas mission season! As usual here’s some highlights from this month, and I’ve dropped some reflections and prayer points at the bottom. 
+    </div>
+    <div class="col-lg-6 my-4 d-flex flex-column align-items-center">
+        <img class="blog-inline-image" src="/assets/images/2511NOV/10years.jpg">
+        <i class="text-center">We celebrated 10 years of Captivate in November!</i>
+    </div>
+</div>
+
+<div class="row flex-lg-row align-items-center">
+    <div class="col-lg-6 my-4">
+        <div class="blockquote-container">
+            <blockquote class="blockquote">
+            The people who walked in darkness<br>
+            &emsp;have seen a great light;<br>
+            those who dwelt in a land of deep darkness,<br>
+            &emsp;on them has light shone.<br>
+            You have multiplied the nation;<br>
+            &emsp;you have increased its joy;<br>
+            they rejoice before you<br>
+            &emsp;as with joy at the harvest,<br>
+            &emsp;as they are glad when they divide the spoil.
+            </blockquote>
+            <figcaption class="blockquote-footer">
+                Isaiah 9:2–3
+            </figcaption>
+        </div>
+    </div>
+    <div class="col-lg-6 my-4 d-flex flex-column align-items-center">
+        Church is well into our Christmas mission season, and every year I’m reminded of how we are so blessed in Australia that there are holidays centered around the birth of our Lord Jesus. My prayer is that in this season we would rejoice in this great light we have seen, and that the world around us would know the great joy found in Christ also!
+    </div>
+</div>
+
+<div class="row flex-lg-row align-items-center">
+    <div class="col-lg-6 my-4">
+        <h3>preaching from Song of Solomon</h3>
+        It was a huge challenge but I had a blast preparing and preaching from the Song of Solomon. The whole series has been a great encouragement to our church in challenging us to consider God’s good design for love and how it points us to Christ. I preached from 3:6-5:1 which is the climax of the book where love is consummated for the bride and groom. In contrast to the rest of the book where we are called to not awaken love until the time is right, here love is awakened and God calls us to encourage and celebrate love in its right context! You can listen to the sermon I preached here.
+    </div>
+    <div class="col-lg-6 my-4 d-flex flex-column align-items-center">
+        <img class="blog-inline-image" src="/assets/images/2511NOV/preaching.jpg">
+        <i class="text-center">This year I've found preaching to be a challenging exercise in both preparing the content and delivery, and my goal next year will be to make ground on both!</i>
+    </div>
+</div>
+<div class="row flex-lg-row-reverse align-items-center">
+    <div class="col-lg-6 my-4">
+        <h3>front of house rally</h3>
+        I’ve been helping lead the welcoming team at captivate, and it’s been a great challenge in stretching me to lead and equip others to lead a team well. It has been a great year in not just welcoming hundreds of people, but being a part of shaping the welcoming culture of our church. We had a meeting in November to reflect on the year past and plan for the year ahead. Praise God for the many people we have seen visit captivate, and the many who have stuck around to call captivate home. We had a super productive planning meeting for the year ahead as we consider big changes at church. Pray for wisdom as we prepare for new initiatives, processes, and look to welcome lots of new people!
+    </div>
+    <div class="col-lg-6 my-4 d-flex flex-column align-items-center">
+        <img class="blog-inline-image" src="/assets/images/2511NOV/foh.png">
+        <i class="text-center">cookies that Bec baked to thank the whole team, and our goals for the year ahead</i>
+    </div>
+</div>
+<div class="row flex-lg-row align-items-center">
+    <div class="col-lg-6 my-4">
+        <h3>SRE</h3>
+        This year I have been lagging on the initiative of getting myself into SRE, but over October and November I was able to get a move on, get all my paperwork done and find the contact details for the SRE coordinator of a local school. I was able to make it into my old high school, Epping Boys, before the end of term 4 to watch a scripture class. I have lots of fond memories of my time in High School, and am looking forward to the opportunity of teaching SRE next year! Scripture is opt-in, and the boys seem to be relatively keen to be there.
+    </div>
+    <div class="col-lg-6 my-4 d-flex flex-column align-items-center">
+        <img class="blog-inline-image" src="/assets/images/2511NOV/ebhs.jpg">
+        <i class="text-center">on my graduation day</i>
+    </div>
+</div>
+<div class="row flex-lg-row-reverse align-items-center">
+    <div class="col-lg-6 my-4">
+        <h3>five months old!</h3>
+        Since the last update Emme has grown heaps! As well as starting to roll, she has started to smile more regularly, laugh at random things, play more actively, and also cry at random times. We are so thankful to God that she continues to grow, and how in becoming parents she has grown us in our patience, love, humility, and service. We have found she enjoys looking at books, we love to read the Jesus Storybook Bible with her, and she also enjoys the singing at church during service! Pray that she would grow to know and love our Lord Jesus, that she would also serve Him with all of her life.
+    </div>
+    <div class="col-lg-6 my-4 d-flex flex-column align-items-center">
+        <img class="blog-inline-image" src="/assets/images/2511NOV/emme.jpg">
+        <i class="text-center">lovingly looking at vegemite toast</i>
+    </div>
+</div>
+<div class="row flex-lg-row">
+    <div class="col-lg-6 my-4">
+        <h3>reflections</h3>
+        <ul class="list-group list-group-flush">
+            <li class="list-group-item">- Planning is hard work! But worth it for moving forward. There’s a lot of things that I took on this year that weren’t necessarily planned, and as a result they’ve kind of fallen by the wayside. Having done a lot of the strategy work for the year ahead I feel a lot more prepared and equipped for what I’m going to achieve next year.</li>
+            <li class="list-group-item">- Time management continues to be something that I grow in. Coming off the back of preaching twice at SOW and then preaching in Song of Solomon was hard and really stretched me for my time. I did get it done in the end, but I feel the need to not underestimate getting it done early, and how this can help me in my sermon delivery.</li>
+            <li class="list-group-item">- Knowing that I am loved by God continues to be what carries me through all of life! The way by which I want to be a loving husband and father, and a minister of the gospel, only comes from Christ alone. In times when it’s been busy and I’m feeling a little snowed under, what has pulled me through is not my own determination or grit, but God who continues to sustain me. There is a great fountain of energy to serve from when I look upon Jesus, the creator of all things and our saviour!</li>
+            <li class="list-group-item">- All ministry patience and humility to let God work, sometimes I think I have the right answers or the best way, but I need to be patient in letting God work and for him to grow people, not just provide the right solution at any given time. I need to have more of an intentional outlook on seeing people grow in the </li>
+        </ul>
+    </div>
+    <div class="col-lg-6 my-4">
+        <h3>prayer points</h3>
+        <ul class="list-group list-group-flush">
+            <li class="list-group-item">- Christmas is upon us! Pray that our church would be warm, welcoming, and fruitful with the opportunities which God has put before us. Pray that I would be intentional in this mission season with my non-Christian friends and family, and pray for our church service at the park and Christmas service, that many people from the community would come and hear of the Lord Jesus who has come to us.</li>
+            <li class="list-group-item">- Pray for energy over the Holidays! Many of the teams are taking well deserved breaks in December and January, but the staff team keeps on chugging. There’s heaps to do still and feels busy even as the year wraps up.</li>
+            <li class="list-group-item">- For wisdom as we finalise our plans for next year - we’re putting dates in the church calendar, youth has all our teaching and events lined up for all four terms, the preaching calendar is being filled, new Bible studies are being formed, there’s a lot of changes and it’s already looking like a busy year ahead with plenty to do. Pray that we would be entrusting these plans to God, and that whether they go to plan or fail, God would be glorified in our endeavours.</li>
+            <li class="list-group-item">- That I might continue to strive to be a loving husband and father. It’s Emme’s first Christmas and I want to spend intentional time as a family together, thanking God for the year that’s gone by, celebrating the God’s gift of our Lord Jesus, and preparing for the year ahead!</li>
+        </ul>
+    </div>
+</div>
+<div class="row flex-lg-row">
+    <div class="col-lg-12 my-4 d-flex justify-content-center">
+    </div>
+</div>
+
+
+<div class="row flex-lg-row align-items-center">
+    <div class="col-lg-6 my-4">
+        <h3>🙏 Thank you again for your partnership in the gospel! Shoot through a message when you've prayed (even if it's just a "hey!") and let me know how I can be praying for you also!</h3>
+    </div>
+    <div class="col-lg-6 my-4 d-flex flex-column align-items-center">
+        <img class="blog-inline-image" src="/assets/images/2511NOV/magnolias.jpg">
+        <i class="text-center">Magnolias which have bloomed in our garden!</i>
+    </div>
+</div>
+
