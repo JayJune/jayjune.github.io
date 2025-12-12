@@ -86,7 +86,7 @@ categories: update
             <li class="list-group-item">- Planning is hard work! But worth it for moving forward. There’s a lot of things that I took on this year that weren’t necessarily planned, and as a result they’ve kind of fallen by the wayside. Having done a lot of the strategy work for the year ahead I feel a lot more prepared and equipped for what I’m going to achieve next year.</li>
             <li class="list-group-item">- Time management continues to be something that I grow in. Coming off the back of preaching twice at SOW and then preaching in Song of Solomon was hard and really stretched me for my time. I did get it done in the end, but I feel the need to not underestimate getting it done early, and how this can help me in my sermon delivery.</li>
             <li class="list-group-item">- Knowing that I am loved by God continues to be what carries me through all of life! The way by which I want to be a loving husband and father, and a minister of the gospel, only comes from Christ alone. In times when it’s been busy and I’m feeling a little snowed under, what has pulled me through is not my own determination or grit, but God who continues to sustain me. There is a great fountain of energy to serve from when I look upon Jesus, the creator of all things and our saviour!</li>
-            <li class="list-group-item">- All ministry patience and humility to let God work, sometimes I think I have the right answers or the best way, but I need to be patient in letting God work and for him to grow people, not just provide the right solution at any given time. I need to have more of an intentional outlook on seeing people grow in the </li>
+            <li class="list-group-item">- All ministry patience and humility to let God work, sometimes I think I have the right answers or the best way, but I need to be patient in letting God work and for him to grow people, not just provide the right solution at any given time. I need to have more of an intentional outlook on seeing people grow in the ways that people serve and the way that I minister to them, especially when I have to work with people who I don’t naturally work well with.</li>
         </ul>
     </div>
     <div class="col-lg-6 my-4">
@@ -111,7 +111,7 @@ categories: update
     </div>
     <div class="col-lg-6 my-4 d-flex flex-column align-items-center">
         <img class="blog-inline-image" src="/assets/images/2511NOV/magnolias.jpg">
-        <i class="text-center">Magnolias which have bloomed in our garden!</i>
+        <i class="text-center">Magnolias which have blossomed in our garden!</i>
     </div>
 </div>
 
