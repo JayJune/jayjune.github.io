@@ -1,0 +1,111 @@
+---
+layout: post
+title:  farewell twenty five 
+picture: "/assets/images/2512DEC/christmas.jpg"
+date:   2026-01-06 00:00:01 +1100
+categories: update
+---
+<div class="row flex-lg-row align-items-center">
+    <div class="col-lg-6 my-4">
+        Happy new year! Thank you again for your gospel partnership, with your prayer and support I’ve had a fruitful December, and I’ve been able to wrap up a really big year! As usual here’s some highlights form this month, and I’ve dropped some reflections and prayer points down at the bottom. 
+    </div>
+    <div class="col-lg-6 my-4 d-flex flex-column align-items-center">
+        <img class="blog-inline-image" src="/assets/images/2512DEC/christmas.jpg">
+        <i class="text-center">Hello from our family at Christmas!</i>
+    </div>
+</div>
+
+<div class="row flex-lg-row align-items-center">
+    <div class="col-lg-6 my-4">
+        <div class="blockquote-container">
+            <blockquote class="blockquote">
+                Therefore, since we are surrounded by so great a cloud of witnesses, let us also lay aside every weight, and sin which clings so closely, and let us run with endurance the race that is set before us, looking to Jesus, the founder and perfecter of our faith, who for the joy that was set before him endured the cross, despising the shame, and is seated at the right hand of the throne of God.
+            </blockquote>
+            <figcaption class="blockquote-footer">
+                Hebrews 12:1–2
+            </figcaption>
+        </div>
+    </div>
+    <div class="col-lg-6 my-4 d-flex flex-column align-items-center">
+        I hope you have had time to celebrate Jesus and reflect over this holiday season. Our family has enjoyed seeing how God has been at work over this last year. Despite the busy-ness, the times where it felt like we missed opportunities, or had to prioritise one important thing over another important thing, we’ve been able to praise God for how he has been at work. When we consider the work Christ has done, we can see how he is at work in his people around us, and the fruit which he is growing in our lives, such that we can continue to run this race before us. My prayer is that as we kick off this new year we might all be able to continue to look to Jesus, and run the race with him in our sight.
+    </div>
+</div>
+
+<div class="row flex-lg-row align-items-center">
+    <div class="col-lg-6 my-4">
+        <h3>connect north</h3>
+        connect is a space for year 12 grads to learn about Jesus from the Bible and get involved with uni campus ministries. Alan (the senior minister at captivate) has a 3 part seminar on living for God with the Bible as our guide, and I was able to run the last seminar on making god honouring decisions in life! It was super encouraging to see so many teenagers who were keen to live for Jesus, and I was able to share with them how living for God means looking ahead to Jesus and letting that guide our lives. Growing up we’re often told what to do by others, or we’re convinced to desire what the world desires. Often we make decisions based on what suits us, and for students going in to university, often courses and universities are picked based on what gets us the best job or best life outcomes. The challenge to them was to not just pick a good course to get into a good job, a good place to live, and at the end of it maybe think about how they might fit serving God around the rest of their life. We encouraged them to always look to Jesus, at every stage of life, every day we should be reminded of our life secured in Christ, and in doing so our decisions will not merely be what suits us, but what expresses the truth of a life purchased by God. It was an awesome opportunity for me in feeling more confident with teaching a large group (over 100 teenagers!) and interacting with them throughout.
+    </div>
+    <div class="col-lg-6 my-4 d-flex flex-column align-items-center">
+        <img class="blog-inline-image" src="/assets/images/2512DEC/connect.png">
+        <i class="text-center">working on hand gestures with my free hand</i>
+    </div>
+</div>
+<div class="row flex-lg-row-reverse align-items-center">
+    <div class="col-lg-6 my-4">
+        <h3>youth final friday</h3>
+        Youth wrapped up and we were able to invite parents and our church to see what the youth have been up to this year! We were able to share a little about what youth looks like week to week. We were able to praise God together, and heard from the youth share about how God has been helping them live boldly for Christ, their favourite memories, and God’s faithfulness in growing our youth. One of the youth shared about how they had come to Christ in 2025 and is keen to keep living for Jesus, and we also prayed for the youth in the year ahead, especially for the year 6 students who were graduating and going in to high school. Rad spoke from 2 Timothy 4, encouraging us to fight the good fight, no matter what life looks like, because like Paul we look to the work that Jesus has already done. Wrapping up youth for the year I’ve seen how God has been at work not only in the youth but also the leaders. We thanked Rad as he preached to the youth for his last time and I’ve reflected on how God has grown all the leaders in their convictions and competencies—myself included!
+    </div>
+    <div class="col-lg-6 my-4 d-flex flex-column align-items-center">
+        <img class="blog-inline-image" src="/assets/images/2512DEC/cyff.jpg">
+        <i class="text-center">sending radman off to college</i>
+    </div>
+</div>
+<div class="row flex-lg-row align-items-center">
+    <div class="col-lg-6 my-4">
+        <h3>Christmas mission</h3>
+        Captivate had a big Christmas season! We were able to serve our local community by taking the lead at our West Ryde Christmas carols. Despite the hot weather we saw hundreds of people come through and hear Christian carols sung as well as the gospel preached. We also took our regular church service to the local park and I was able to lead the service! It was a great learning opportunity for me in doing something more evangelistic up the front. Please pray for the 23 contacts who we met through our Christmas mission!
+    </div>
+    <div class="col-lg-6 my-4 d-flex flex-column align-items-center">
+        <img class="blog-inline-image" src="/assets/images/2512DEC/carols.jpg">
+        <i class="text-center">carols was a 30 degree day with rain (worst weather possible haha)</i>
+    </div>
+</div>
+<div class="row flex-lg-row-reverse align-items-center">
+    <div class="col-lg-6 my-4">
+        <h3>macquarie ministry apprentices</h3>
+        Over the last year I’ve been able to catch up with other ministry apprentices and students that are around in the Macquarie area. It’s been a great blessing to be able to share with others who are in the same life stage—we’ve been able to pray and encourage one another throughout the year and catch up with how ministry is going in each of our lives. We’re looking forward to another year ahead of praying for one another, and as we approach a new year the group has grown with new apprentices starting next year! Some of us are at a local church, some on campus, and others starting college. I’ve been super thankful for the opportunity to share in a context which is outside of my usual circle in church and with a cohort that are going through similar changes in life as they tackle what full time ministry looks like in life.
+    </div>
+    <div class="col-lg-6 my-4 d-flex flex-column align-items-center">
+        <img class="blog-inline-image" src="/assets/images/2512DEC/mma.jpg">
+        <i class="text-center">The culinary skill of this group is awesome! </i>
+    </div>
+</div>
+<div class="row flex-lg-row">
+    <div class="col-lg-6 my-4">
+        <h3>reflections</h3>
+        <ul class="list-group list-group-flush">
+            <li class="list-group-item">- It is a great privilege to do ministry full time! 2025 has gone by so quickly and it has been a great joy to serve the church alongside my brothers and sisters, and to be able to do that in partnership with so many people! It’s awesome to be able to read the Bible for work and do that week in and week out. As Bec and I reflect on the future, we’re keen to see how God will continue to use us to serve his kingdom.</li>
+            <li class="list-group-item">- I’m halfway through my apprenticeship and am super thankful for how God has grown me in many ways, in my character, conviction, competency. Even though there have been times where it has felt like a slog I can see how God has been fruitful in growing me in my weaknesses, and using them to reveal to me how much God is at work.</li>
+            <li class="list-group-item">- God works despite my shortcomings. As I juggle a lot of different responsibilities I’ve wrestled with doing them all well, but for the sake of my time and serving others I’ve had to learn to be okay with not everything being as perfect as I want it to be. I’ve continued to learn to depend more on God in prayerfulness and not bank on the success of ministries by my own strength.</li>
+            <li class="list-group-item">- Thankful for all the work in planning the year ahead and how that has given me energy to keep on pressing through the holiday season. Planning and admin isn’t one of my strengths but being organised has given me extra energy for the year ahead!</li>
+        </ul>
+    </div>
+    <div class="col-lg-6 my-4">
+        <h3>prayer points</h3>
+        <ul class="list-group list-group-flush">
+            <li class="list-group-item">- The church kid’s spots in the month of January are being done by the staff team, and I’m up for Deuteronomy 1-3 this Sunday. Pray for wisdom in showing the kids how God has been faithful throughout all of history to us.</li>
+            <li class="list-group-item">- Preparation as I will be preaching on Deuteronomy 4 on the 18th of January at our 11am service - you’re invited! It’s a deep and rich passage, and would like to be well prepared to preach it faithfully.</li>
+            <li class="list-group-item">- I’m also working on the youth term plan for term 1 in 2 Timothy with another youth leader. Pray for the youth to be encouraged and equipped to fight for Jesus!</li>
+            <li class="list-group-item">- In January the elders and staff will be meeting together for our annual retreat to kickoff the year, pray for energy and wisdom for them to be faithful leaders in a big season of change this year.</li>
+            <li class="list-group-item">- I’ve decided on a change project for this year, pray that I would be diligent in pushing ahead with it and getting people onboard with the idea and spending time on it accordingly. The change is for a way of equipping lay members to teach the Bible. In our church we have the skills to identify and deploy people who are equipped to do as such, but we don’t have a system for identifying and equipping people who are not yet ready and wanting to teach the Bible to be trained to teach in a formal capacity.</li>
+            <li class="list-group-item">- We had extended family from overseas visit over December. Hearing from them reminded us of the futility of living worldly lives, and how everyone desperately needs Jesus. Pray for our continued witness to them as they will be coming again in May for my brother in law’s wedding.</li>
+        </ul>
+    </div>
+</div>
+<div class="row flex-lg-row">
+    <div class="col-lg-12 my-4 d-flex justify-content-center">
+    </div>
+</div>
+
+
+<div class="row flex-lg-row align-items-center">
+    <div class="col-lg-6 my-4">
+        <h3>🙏 Thank you again for your partnership in the gospel! Shoot through a message when you've prayed (even if it's just a "hey!") and let me know how I can be praying for you also!</h3>
+    </div>
+    <div class="col-lg-6 my-4 d-flex flex-column align-items-center">
+        <img class="blog-inline-image" src="/assets/images/2512DEC/wcf.jpg">
+        <i class="text-center">Emme learning to glorify God and enjoy him forever.</i>
+    </div>
+</div>
+
