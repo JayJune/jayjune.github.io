@@ -7,7 +7,7 @@ categories: update
 ---
 <div class="row flex-lg-row align-items-center">
     <div class="col-lg-6 my-4">
-        Happy new year! Thank you again for your gospel partnership, with your prayer and support I’ve had a fruitful December, and I’ve been able to wrap up a really big year! As usual here’s some highlights form this month, and I’ve dropped some reflections and prayer points down at the bottom. 
+        Happy new year! Thank you again for your gospel partnership, with your prayer and support I’ve had a fruitful December, and I’ve been able to wrap up a really big year! As usual here’s some highlights from this month, and I’ve dropped some reflections and prayer points down at the bottom. 
     </div>
     <div class="col-lg-6 my-4 d-flex flex-column align-items-center">
         <img class="blog-inline-image" src="/assets/images/2512DEC/christmas.jpg">
