@@ -1,0 +1,123 @@
+---
+layout: post
+title:  a joyful january 
+picture: "/assets/images/2601JAN/staff.jpg"
+date:   2026-02-11 00:00:01 +1100
+categories: update
+---
+<div class="row flex-lg-row align-items-center">
+    <div class="col-lg-6 my-4">
+        Thanks again for your partnership and support! I kicked off the year keen for new things that are happening but also a little tired from the Christmas season. Praise God that he has sustained myself and my family through this January, but pray that he would continue to be growing me in serving God first, and in doing so lovingly serving both family and church. Again, here’s some highlights from what I’ve been up to, and I’ve left some reflections and prayer points at the bottom.
+    </div>
+    <div class="col-lg-6 my-4 d-flex flex-column align-items-center">
+        <img class="blog-inline-image" src="/assets/images/2601JAN/staff.jpg">
+        <i class="text-center">Hello from our first staff lunch for the year! (although missing my trainer)</i>
+    </div>
+</div>
+
+<div class="row flex-lg-row align-items-center">
+    <div class="col-lg-6 my-4">
+        <div class="blockquote-container">
+            <blockquote class="blockquote">
+                But we have this treasure in jars of clay, to show that the surpassing power belongs to God and not to us. We are afflicted in every way, but not crushed; perplexed, but not driven to despair; persecuted, but not forsaken; struck down, but not destroyed; always carrying in the body the death of Jesus, so that the life of Jesus also may be manifested in our bodies. For we who live are always being given over to death for Jesus’ sake, so that the life of Jesus also may be manifested in our mortal flesh. So death is at work in us, but life in you.
+            </blockquote>
+            <figcaption class="blockquote-footer">
+                2 Corinthians 4:7–12
+            </figcaption>
+        </div>
+    </div>
+    <div class="col-lg-6 my-4 d-flex flex-column align-items-center">
+        I’ve read this passage many times, and as I reflect on the new year I’m reminded that I am weak and God is strong. That no matter how much effort I put in, only God can do the work. But I was challenged with the truth that in this, we carry the life of Jesus. Weakness in us is Christ manifested in our bodies. My prayer is that whenever we find ourselves in hardship, we would not despair but see Jesus at work in our bodies.
+    </div>
+</div>
+
+<div class="row flex-lg-row align-items-center">
+    <div class="col-lg-6 my-4">
+        <h3>kids church</h3>
+        For January the kid's chuch team took a well deserved break. I was tasked with taking the lead in three weeks of kids spots at church as we kick off in the book of Deuteronomy. On the first week of the new year we had a new assistant pastor, Rob, and a new apprentice, Clara join us, and I took them through our vision and assessment rubric for our kids spots. Together we came up with a story of our two former slaves, Benjamin E. Factor and Carrie D. Grace, who are travelling together with Captain Solar (who lives by the King's plan alone) aboard a ship to foreverland. The story wrestles with their desire to save themselves and not follow the king, their inability to save themselves, and how despite their waywardness, the king loves them and desires for them to be saved.
+    </div>
+    <div class="col-lg-6 my-4 d-flex flex-column align-items-center">
+        <img class="blog-inline-image" src="/assets/images/2601JAN/kidspot.jpg">
+        <i class="text-center">Me with Clara (Carrie) and Rob (Captain) - We're asking what it means to love God with all of our heart, soul, and mind.</i>
+    </div>
+</div>
+<div class="row flex-lg-row-reverse align-items-center">
+    <div class="col-lg-6 my-4">
+        <h3>G8 conference</h3>
+        In the second week of January, I packed my bags and sadly said goodbye to my wife and daughter for three days off at the annual MTS apprentices conferences called G8. I went along with Clara, and over the three days we were challenged with how our ministry is shaped by our principles. We were given the tools to think about what are the theological, personal, and contextual principles that are important to us, and how that shapes our ministry. We also had talks each night from the book of 2 Corinthians which is where my scriptural reflection comes from. It really shaped our time as apprentices, sharing and reflecting on ministry together. We could all see that although ministry calls hardship into our lives, this is the normal experience of living for Jesus. As our Lord suffered for us, then his servants too will embody him in suffering.
+    </div>
+    <div class="col-lg-6 my-4 d-flex flex-column align-items-center">
+        <img class="blog-inline-image" src="/assets/images/2601JAN/g8.jpg">
+        <i class="text-center">captivate x epping pressie (Josiah and Ali) apprentices hanging out on play equipment</i>
+    </div>
+</div>
+<div class="row flex-lg-row align-items-center">
+    <div class="col-lg-6 my-4">
+        <h3>preaching from Deuteronomy</h3>
+        Before preaching from Deuteronomy, I definitely had a more dry outlook on the book and how God’s law throughout the Bible, but I was pleasantly challenged with how the law is a beautiful, life giving way of life which God has given us because he loves us (my big idea). Of the law, Deuteronomy 4:7 says: “For what great nation is there that has a god so near to it as the LORD our God is to us, whenever we call upon him?” Living out God’s way of life is not only good for us because it is the best way which God has ordained for us, but it also reveals how near we are to God! It was a busy week with sermon writing which happened while I was at G8, and the sermon preview and feedback was done on very tight timing. but personally it was the most prepared I've ever felt for a sermon, and I have seen how God has grown me in my preaching over the last year. You can listen to the sermon here.
+    </div>
+    <div class="col-lg-6 my-4 d-flex flex-column align-items-center">
+        <img class="blog-inline-image" src="/assets/images/2601JAN/preaching.jpg">
+        <i class="text-center">the hand gestures were off the charts this time</i>
+    </div>
+</div>
+<div class="row flex-lg-row-reverse align-items-center">
+    <div class="col-lg-6 my-4">
+        <h3>kicking off youth</h3>
+        For this term, alongside many other things I’ve worked with one of the other leaders on putting together our term in 2 Timothy. Our series title is called “Fight the good fight”—we want our youth to lock in and live boldly for Christ. As they start a new school year and continue to grow in their maturity, we want the grace received in Christ and his word to be the guiding force for their lives, that the life of Jesus is what they live by, even when it’s hard! To kick off the term we had a social event where we went bowling and mini golf, turns out some of the youth are exceptionally good at both! (I got rekt). This term we’re keen for new friends as some of our youth head into high school, and another youth coming in to year 6.
+    </div>
+    <div class="col-lg-6 my-4 d-flex flex-column align-items-center">
+        <img class="blog-inline-image" src="/assets/images/2601JAN/youth.png">
+        <i class="text-center">Some of the youth leaders were also unexpectedly good at bowling</i>
+    </div>
+</div>
+<div class="row flex-lg-row align-items-center">
+    <div class="col-lg-6 my-4">
+        <h3>catching up with old friends</h3>
+        Over the new year I’ve bumped into and met up with two non-Christian friends from high school, which is a prayer that God has answered for more opportunities to share the gospel! Despite not talking to J for about a year, we were able to tee up a time to have lunch together near his work. I made the trip out toward the CBD on a busy day, and I am super thankful we were able to share with each other about how life is going. J told me he doesn’t share much about his life and feelings with other people, but was able to tell me about some strained relationships and how it has shaped him, and in turn I was able to share about experiences which were not too dissimilar, but more importantly about how Jesus speaks to it, and how the gospel is a sure hope that I have even in hardships because he is the God who repairs relationships!
+    </div>
+    <div class="col-lg-6 my-4 d-flex flex-column align-items-center">
+        <img class="blog-inline-image" src="/assets/images/2601JAN/metro.jpg">
+        <i class="text-center">catching metro to north sydney for the first time and impressed with the architecture and engineering</i>
+    </div>
+</div>
+<div class="row flex-lg-row">
+    <div class="col-lg-6 my-4">
+        <h3>reflections</h3>
+        <ul class="list-group list-group-flush">
+            <li class="list-group-item">- Being a father requires a lot, I’ve never felt so inadequate in my life, and I continue to wrestle with what it looks to be a good husband, father, and worker. But I take comfort in knowing that I have the greatest Father in God, and so I continue to look to Him for how to lead and love my family.</li>
+            <li class="list-group-item">- God answers prayers (of course!) But I’ve found it easy to pray for help to get things done, and less regularly praying expectantly for new things like having opportunities to share the gospel with my non-Christian friends.</li>
+            <li class="list-group-item">- Ministry being hard is the norm, as Jesus calls us to suffer when we follow him, then we shouldn’t be surprised when it is difficult. I continue to learn what it means to rely on God in my weaknesses, and continue to consider what this looks like for the rest of my life. It’s easy to look to a life which is easier and think “I wish I had that”</li>
+            <li class="list-group-item">- Working on long term projects that are not urgent continues to be one of my weaknesses. There’s always a good number of things on the backlog that I’d like to do, but I’m always distracted by the immediate tasks at hand</li>
+            <li class="list-group-item">- Teaching the young people of the church continues to be high effort, but also very fruitful. Throughout Deuteronomy, Israel is called to teach their children, that their children may teach their children also, and it’s a beautiful picture of families being brought up and shaped by God’s faithfulness to them. It is a great joy to see this at work at Captivate, where we have many families, many kids and youth on a Sunday, engaging in God’s word together.</li>
+        </ul>
+    </div>
+    <div class="col-lg-6 my-4">
+        <h3>prayer points</h3>
+        <ul class="list-group list-group-flush">
+            <li class="list-group-item">- That I would continue to be a loving husband and father in leading my family in loving God first and keeping Jesus at the centre.</li>
+            <li class="list-group-item">- For the youth team as we kick off and their friends, including some non-Christian who they are inviting, to hear the gospel and be built up in God’s truth. For myself as I teach from 2 Timothy.</li>
+            <li class="list-group-item">- Two non-Christian friends that I’ve bumped in to/caught up with, that I might be bold in taking up opportunities to share the gospel.</li>
+            <li class="list-group-item">- For our church as we go through change, we have confirmed our amalgamation with another Presbyterian church and will be merging leadership and ministry teams, as well as moving site over the next few months. Pray for wisdom as lots of teams go through change and lots of plans are made together.</li>
+            <li class="list-group-item">- For Epping Boys high school, where I will be doing SRE this year. That many may come to know and trust in Jesus.</li>
+            <li class="list-group-item">- For our Bible studies that kick off this term, I have a new group and a new coleader, so pray for wisdom in leadership and encouraging time in the word and doing life together.</li>
+            <li class="list-group-item">- My time management as I juggle a larger change project and start working on two smaller changes in mobilising people to serve and catching newcomers—It’s all work which is important but does not feel immediately urgent, and so it’s easy to tell myself I’ll do it later.</li>
+        </ul>
+    </div>
+</div>
+<div class="row flex-lg-row">
+    <div class="col-lg-12 my-4 d-flex justify-content-center">
+    </div>
+</div>
+
+
+<div class="row flex-lg-row align-items-center">
+    <div class="col-lg-6 my-4">
+        <h3>🙏 Thank you again for your partnership in the gospel! Shoot through a message when you've prayed (even if it's just a "hey!") and let me know how I can be praying for you also!</h3>
+    </div>
+    <div class="col-lg-6 my-4 d-flex flex-column align-items-center">
+        <img class="blog-inline-image" src="/assets/images/2601JAN/cucumber.jpg">
+        <i class="text-center">Emme started solids on new years eve and has been eating heaps!</i>
+    </div>
+</div>
+
