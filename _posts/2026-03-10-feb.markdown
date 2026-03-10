@@ -1,0 +1,116 @@
+---
+layout: post
+title:  a february growing in fatherhood
+picture: "/assets/images/2602FEB/mma.jpg"
+date:   2026-03-10 00:00:01 +1100
+categories: update
+---
+<div class="row flex-lg-row align-items-center">
+    <div class="col-lg-6 my-4">
+        Thanks again for your partnership in the gospel! February has been a shorter month so I started the month feeling like I had little time, but praise God it has been a busy and fruitful one where I’ve continued to grow as a husband, father, and minister of the gospel. As usual, here’s some highlights from what I’ve been up to, and I’ve left some reflections and prayer points at the bottom.
+    </div>
+    <div class="col-lg-6 my-4 d-flex flex-column align-items-center">
+        <img class="blog-inline-image" src="/assets/images/2602FEB/mma.jpg">
+        <i class="text-center">Hello from the macquarie ministry apprentices sharing life in ministry over coffee!</i>
+    </div>
+</div>
+
+<div class="row flex-lg-row align-items-center">
+    <div class="col-lg-6 my-4">
+        <div class="blockquote-container">
+            <blockquote class="blockquote">
+                Therefore I endure everything for the sake of the elect, that they also may obtain the salvation that is in Christ Jesus with eternal glory. The saying is trustworthy, for:<br>
+                If we have died with him, we will also live with him;<br>
+                if we endure, we will also reign with him;<br>
+                if we deny him, he also will deny us;<br>
+                if we are faithless, he remains faithful—<br>
+                for he cannot deny himself.
+            </blockquote>
+            <figcaption class="blockquote-footer">
+                2 Timothy 2:10–13
+            </figcaption>
+        </div>
+    </div>
+    <div class="col-lg-6 my-4 d-flex flex-column align-items-center">
+        I worked through 2 Timothy while preaching at SOW last year, and have found myself deep in it again as we teach it to our youth. Even as Paul writes to Timothy to be a teacher of the word, this letter is a great encouragement to all Christians. He encourages Timothy to endure suffering, to bring God’s word to people, that they also may hear and believe in our Lord Jesus. My prayer is that, no matter how you are going, whether a season of joyfulness or hardship, that we would continue to endure for the sake of the gospel, knowing that Jesus is the one who is always faithful to us always, even when we are faithless.
+    </div>
+</div>
+
+<div class="row flex-lg-row align-items-center">
+    <div class="col-lg-6 my-4">
+        <h3>priscilla and aquila conference</h3>
+        The staff team kicked off the month at the Moore college Priscilla and Aquila conference, where the theme was “radical kinship”. I went being unsure what to expect (tickets were bought for me, and workshops selected for me too), but I was really challenged with the talks which tackled what it meant to be radical in our kinship with our church family. The talks challenged how our society puts family above all else, but Jesus calls us to love our church as they are also family, which in some cases means we will love our brothers and sisters in Christ more than our earthly families even. The greatest challenge outlined for me was that although the Bible does affirm the need to take care and provide for your earthly family, it does not necessarily say that this is any more or less important than loving your church family. They are both commands which Christ has called us to, and we should not neglect either!
+    </div>
+    <div class="col-lg-6 my-4 d-flex flex-column align-items-center">
+        <img class="blog-inline-image" src="/assets/images/2602FEB/p&a-conference.jpg">
+        <i class="text-center">familiar faces (again!)</i>
+    </div>
+</div>
+<div class="row flex-lg-row-reverse align-items-center">
+    <div class="col-lg-6 my-4">
+        <h3>sre at ebhs</h3>
+        I have found myself leaving the house earlier than usual on Wednesday mornings to go to my old High School! It was a bit odd at first because it looked so familiar yet somewhat different, and lots of memories came back as I walked through the school and saw many students in the same uniform that I used to wear. This term we’re looking at what the Bible is, and in the first week I was able to share and teach about how the Bible is God’s word, the means by which he communicates to us and has revealed to us Jesus! I have been pleasantly surprised by how polite and attentive the students have been, as well as the theological knowledge that some of them have! One of them asked a systematic theology question of the trinity: “Why are the father, son, and spirit all God, yet not one another?” The time allocated to SRE is only 30min, so it has been growing me in focusing on the big idea and using the best of my time, as well as meeting and working with people from different churches.
+    </div>
+    <div class="col-lg-6 my-4 d-flex flex-column align-items-center">
+        <img class="blog-inline-image" src="/assets/images/2602FEB/ebhs-sre.jpeg">
+        <i class="text-center">one of the english rooms in K-block where I fell asleep many times listening to lessons on shakespeare</i>
+    </div>
+</div>
+<div class="row flex-lg-row align-items-center">
+    <div class="col-lg-6 my-4">
+        <h3>entrusting the word</h3>
+        For the second year of my apprenticeship I’ve been working on a project I’ve entitled “entrusting the word”—inspired by 2 Timothy 2: “and what you have heard from me in the presence of many witnesses entrust to faithful men, who will be able to teach others also.” I have been stretched to think about what it looks like to grow a culture of people not only appreciating the Bible taught faithfully, but also people being trained to teach the Bible to others. From my own observations it feels like our church definitely appreciates faithful teaching, but we fall a little short when it comes to making disciples who will teach the Bible. By God’s grace our church has been growing and we’ve been able to have people who teach the Bible, but they’ve all been trained elsewhere. So far I have been stretched on analysing a problem and asking the right questions to diagnose our culture which I have found challenging, because I usually jump into solving the problem with what I think is the right answer. My goal in this project is to not only grow our church in raising new teachers, but also for me to be able to analyse culture and enact change for the growth of God’s kingdom!
+    </div>
+    <div class="col-lg-6 my-4 d-flex flex-column align-items-center">
+        <img class="blog-inline-image" src="/assets/images/2602FEB/metro.png">
+        <i class="text-center">2026 metro apprentices and trainers in the presbyterian church- part of the issue when it comes to training people to teach the word is that churches might do little or no training at all, unless you're doing it full time! I'm working on how we can make it a normal part of our culture such that each lay member see's being trained to teach as a normal next step in maturity at our church.</i>
+    </div>
+</div>
+<div class="row flex-lg-row-reverse align-items-center">
+    <div class="col-lg-6 my-4">
+        <h3>a new season of serving together</h3>
+        As Emme grows older and becomes less dependent on mum, I have had the joy of spending more time with her in doing regular day to day things. Most mornings I find myself drowsily rolling out of bed when she gets up around 6AM, and as she eats more solid food independently we’re able to all enjoy our meals together when I’m home! On Sundays we usually get to church early, and recently I’ve been able to take care of her more at times to free Bec up to be more actively engaged with the service and with others at church. As we do ministry as a family, I’ve found joy in being able to serve together in different ways, and Emme is a helpful conversation starter for me with newcomers as well (especially families!) Although she tests us in our energy, I am thankful for the ways that God uses Emme to grow our family in loving those around us.
+    </div>
+    <div class="col-lg-6 my-4 d-flex flex-column align-items-center">
+        <img class="blog-inline-image" src="/assets/images/2602FEB/mono.jpg">
+        <i class="text-center">hello from us wearing monochrome</i>
+    </div>
+</div>
+<div class="row flex-lg-row">
+    <div class="col-lg-6 my-4">
+        <h3>reflections</h3>
+        <ul class="list-group list-group-flush">
+            <li class="list-group-item">- I am constantly reminded of how there’s a lot of ministry to do at hand, and in this I’ve realised I have to constantly remind myself that it’s only possible by the work of Christ. I am not serving by my own strength, but trusting in Jesus who is faithful.</li>
+            <li class="list-group-item">- Being faithful to many responsibilities does not mean that I should fulfill the urgent at the cost of the important, I don’t want to get ministry done at the expense of neglecting relationships.</li>
+            <li class="list-group-item">- The conditions for ministry can sometimes be less than ideal—working with little time and others from different denominations at scripture makes it seem like a low priority task to do, but God surprises me with putting young men that love to learn from the Bible before me!</li>
+            <li class="list-group-item">- It’s hard enough to teach people the right thing from the Bible, but it’s even harder to teach people to discern it and teach it to others too.</li>
+        </ul>
+    </div>
+    <div class="col-lg-6 my-4">
+        <h3>prayer points</h3>
+        <ul class="list-group list-group-flush">
+            <li class="list-group-item">- That I would continue to be prayerfully dependent on God to do his ministry, and clear and focused with my purpose and responsibilities in serving God and the people around me that he has placed in my life. Pray especially that I would continue to grow to be a more loving husband, father, and servant of those around me.</li>
+            <li class="list-group-item">- For spending time in my change project as it is a slow burn, and for his people to love his word and want to teach it to others!</li>
+            <li class="list-group-item">- Moving office! Pray for safety, and energy as our staff team moves from our office in Eastwood down to Ryde as part of our churches amalgamating.</li>
+            <li class="list-group-item">- Youth evangelistic social happening this Friday! Pray for the youth we’ll be meeting for the first time, and those who will visit us again. Pray that they would hear the gospel and respond to it, and pray that our youth would be bold in inviting their friends and being a witness of God’s love.</li>
+            <li class="list-group-item">- Wisdom as I spend time with the leaders of our front of house/welcomers team. We have our bi-annual meeting coming up called rally, and we’re sharing a few new things as we move into a new space to meet in on Sundays and meet new people in this church amalgamation. Help us to be encouraging in loving strangers and being patient and humble while working with people who we don’t know.</li>
+            <li class="list-group-item">- Emme's latest heart scan revealed nothing to note, and the doctor was happy to say that she needed no further checkups! Praise God for his sovereignty in sustaining our family through a complicated birth, and pray that he would continue to grow Emme in life, most importantly that she would love and glorify God with all of her life.</li>
+        </ul>
+    </div>
+</div>
+<div class="row flex-lg-row">
+    <div class="col-lg-12 my-4 d-flex justify-content-center">
+    </div>
+</div>
+
+
+<div class="row flex-lg-row align-items-center">
+    <div class="col-lg-6 my-4">
+        <h3>🙏 Thank you again for your partnership in the gospel! Shoot through a message when you've prayed (even if it's just a "hey!") and let me know how I can be praying for you also!</h3>
+    </div>
+    <div class="col-lg-6 my-4 d-flex flex-column align-items-center">
+        <img class="blog-inline-image" src="/assets/images/2602FEB/chw.jpg">
+        <i class="text-center">on our way home after Emme's appointment at westmead</i>
+    </div>
+</div>
+
