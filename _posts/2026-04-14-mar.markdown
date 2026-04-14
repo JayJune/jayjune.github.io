@@ -7,7 +7,7 @@ categories: update
 ---
 <div class="row flex-lg-row align-items-center">
     <div class="col-lg-6 my-4">
-        Thanks again for your partnership in the gospel! Praise God for a march which has been filled with lots of different things, and where I’ve continued to be stretched and grown for God’s ministry. I’ve posted some highlights of things that have happened in March as well as some prayer points below.
+        Thanks again for your partnership in the gospel! Praise God for a march which has been filled with lots of different things, and where I’ve continued to be stretched and grown for God’s ministry. Apologies this comes late as I’ve got a lot of things on, but writing this has helped me to slow down and reflect and be thankful! I’ve posted some highlights of things that have happened in March as well as some prayer points below.
     </div>
     <div class="col-lg-6 my-4 d-flex flex-column align-items-center">
         <img class="blog-inline-image" src="/assets/images/2603MAR/ckspot.jpg">
