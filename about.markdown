@@ -14,7 +14,7 @@ permalink: /about/
         <div class="col-lg-6">
             <h1 class="display-5 fw-bold lh-1 mb-3">Training, teaching, and evangelising in Ryde</h1>
             <p class="lead">
-                Hello! I'm Jay, married to Bec, and I'm a ministry apprentice at Captivate Presbyterian Church for 2025-2026.
+                Hello! I'm Jay, married to Bec, and I'm a ministry apprentice at Captivate Ryde Presbyterian Church for 2025-2026.
             </p>
         </div>
     </div>
@@ -42,7 +42,7 @@ As I called myself a Christian, people would start asking me where I went to chu
 </figcaption>
 </div>
 
-The only hope I have in life and in death, is that I do not belong to myself, but to God and to Christ. With this in mind I've realised I have to continually repent of the sin in my life and live for Jesus first, speaking the truth of his gospel, that others might receive it like I have. I've continued to consider how I can be serving God with my time now here on earth, which has meant being increasingly more and more generous with my time in serving God and his church. This year I've quit my job in tech consulting to work full time at Captivate Presbyterian Church as a ministry apprentice.
+The only hope I have in life and in death, is that I do not belong to myself, but to God and to Christ. With this in mind I've realised I have to continually repent of the sin in my life and live for Jesus first, speaking the truth of his gospel, that others might receive it like I have. I've continued to consider how I can be serving God with my time now here on earth, which has meant being increasingly more and more generous with my time in serving God and his church. This year I've quit my job in tech consulting to work full time at Captivate Ryde Presbyterian Church as a ministry apprentice.
 
 <div class="blockquote-container">
     <blockquote class="blockquote">
