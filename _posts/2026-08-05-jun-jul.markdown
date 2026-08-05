@@ -1,0 +1,129 @@
+---
+layout: post
+title:  a joyful june and july
+picture: "/assets/images/2607JUL/capryde.jpg"
+date:   2026-08-05 00:00:01 +1100
+categories: update
+---
+<div class="row flex-lg-row align-items-center">
+    <div class="col-lg-6 my-4">
+        Hey friends, thanks as always for your partnership in the gospel. It is a clear fruit of how God is at work in each of your lives and continues to spur our family on in serving the gospel faithfully. My apologies as I didn’t get a June prayer letter out—I got caught up in the busy-ness of things and before I knew it, it was August! Here’s what’s been happening over the last two months, and please also let me know how we can be praying for you!
+    </div>
+    <div class="col-lg-6 my-4 d-flex flex-column align-items-center">
+        <img class="blog-inline-image" src="/assets/images/2607JUL/teaching.jpg">
+        <i class="text-center">Hello from church during our open house series! I'm teaching the kids from the parable of the prodigal son how we can always come home to the Father because of the work of Christ.</i>
+    </div>
+</div>
+
+<div class="row flex-lg-row align-items-center">
+    <div class="col-lg-6 my-4">
+        <div class="blockquote-container">
+            <blockquote class="blockquote">
+                O LORD, our Lord,<br>
+                    &emsp;how majestic is your name in all the earth!<br>
+                You have set your glory above the heavens.<br>
+                Out of the mouth of babies and infants,<br>
+                you have established strength because of your foes,<br>
+                    &emsp;to still the enemy and the avenger.<br><br>
+                When I look at your heavens, the work of your fingers,<br>
+                    &emsp;the moon and the stars, which you have set in place,<br>
+                what is man that you are mindful of him,<br>
+                    &emsp;and the son of man that you care for him?<br><br>
+                Yet you have made him a little lower than the heavenly beings<br>
+                    &emsp;and crowned him with glory and honor.<br>
+                You have given him dominion over the works of your hands;<br>
+                    &emsp;you have put all things under his feet,<br>
+                all sheep and oxen,<br>
+                    &emsp;and also the beasts of the field,<br>
+                the birds of the heavens, and the fish of the sea,<br>
+                    &emsp;whatever passes along the paths of the seas.<br><br>
+                O LORD, our Lord,<br>
+                    &emsp;how majestic is your name in all the earth!
+            </blockquote>
+            <figcaption class="blockquote-footer">
+                Psalm 8
+            </figcaption>
+        </div>
+    </div>
+    <div class="col-lg-6 my-4 d-flex flex-column align-items-center">
+        I’ve been reflecting on creation and the fall as we go through an overview of the Bible at youth, and Psalm 8 has reminded me of how profound God’s love is, how much he loves and cares for us in the very work of creation. In God’s wisdom, he has made all of creation, and he has made us in his image to rule under him. But as we live in a world affected by sin, we know that not all people live acknowledging Christ as Lord over all. Praise God for how he has revealed to us how Jesus rules over all! My prayer is for us to continue to be part of God’s work in pointing people to Christ as Lord over the whole universe.
+    </div>
+</div>
+
+<div class="row flex-lg-row align-items-center">
+    <div class="col-lg-6 my-4">
+        <h3>captivate ryde</h3>
+        Our church amalgamated with another and is now called Captivate Ryde Presbyterian Church! Praise God for his faithfulness in being at work in so many people coming together. The first Sunday we had as a new congregation went pretty much as smooth as possible. For the first month it was a month of cold Sunday mornings, but I showed up early each week to be on welcoming, and each week was a bit of tweaking and a few changes with settling in. Since amalgamation, our attendance is now hovering around 300 people each week! Praise God for this fruit, including a good number of newcomers and also Non-Christians who have visited during our open house series. Pray that God would help us to continue to love these people well, and see people come to know Jesus more and grow mature in Him.
+    </div>
+    <div class="col-lg-6 my-4 d-flex flex-column align-items-center">
+        <img class="blog-inline-image" src="/assets/images/2607JUL/capryde.jpg">
+        <i class="text-center">Here's our first week all together at our 11am service.</i>
+    </div>
+</div>
+<div class="row flex-lg-row-reverse align-items-center">
+    <div class="col-lg-6 my-4">
+        <h3>holiday kids club</h3>
+        School holidays are a welcome break for me from the routine of scripture and youth each week, but with the winter school holidays comes our holiday kid’s program. This year the theme of our program was pirate mania, and each day we followed the story of three sailors who mutinied and became pirates, only to be kidnapped and caught up with other pirates. The resolution was the very captain they rebelled against, saves them! But in doing so he had to give his own life. Each day’s program also included multiple games, a Bible story, food and craft. My main responsibility was to run the games, which was a good opportunity for me to continue to be stretched in a different range of skills, because designing and leading games doesn’t come naturally to me. Praise God for a successful week where the games were enjoyed, we were able to serve alongside many volunteers from our church, and we were able minister to over 40 kids! Pray for continued opportunities to minister to these kids and these families, some of these kids have a sharp understanding of the gospel but come from non-Christian families and don’t go to church, pray that they would truly believe in Jesus and that their whole families would repent and believe too.
+    </div>
+    <div class="col-lg-6 my-4 d-flex flex-column align-items-center">
+        <img class="blog-inline-image" src="/assets/images/2607JUL/kidsclub.png">
+        <i class="text-center">It's hard to tell but the props and decorations were incredible and made the hall feel like we were truly sailing upon the seas!</i>
+    </div>
+</div>
+<div class="row flex-lg-row align-items-center">
+    <div class="col-lg-6 my-4">
+        <h3>youth: so, what’s the plan?</h3>
+        Youth has kicked off for term 3, and we’re teaching from the whole Bible this term! Our series called “So, what’s the plan?” traces God’s plan throughout the whole Bible. The preparation leading up to this term has been somewhat challenging as the teaching that I’m usually doing and am comfortable with is usually set within a book of the Bible. We’ve wrestled with teaching faithfully and to the heart, instead of just teaching head knowledge, and teaching a clear and distinct application each week that isn’t immediately "just trust Jesus". In week 2 of term I taught on the fall, and at the end of our night we were thankful as leaders because all of our youth that came had a better understanding of the weight of sin, the effect of it on our relationship with God, and how much it cost for our sins to be paid for. 
+    </div>
+    <div class="col-lg-6 my-4 d-flex flex-column align-items-center">
+        <img class="blog-inline-image" src="/assets/images/2607JUL/youth.png">
+        <i class="text-center">Moments earlier I  destroyed some clay figures which was their "world" which they had created in week one.</i>
+    </div>
+</div>
+<div class="row flex-lg-row-reverse align-items-center">
+    <div class="col-lg-6 my-4">
+        <h3>a year of parenthood</h3>
+        Emme turned one in July! We had a party for her (or was it for us?) It reminded us of how much we rely on God and how gracious he is to us. In her first 12 months of life she’s grown so much, God has sustained her and kept her healthy despite a rough start, and she continues to grow us in our love and patience as we learn new things about ourselves and being parents. We've also been encouraged with how people have been so generous to us, and in this generosity it is obvious that the love of God is at work in his people.
+    </div>
+    <div class="col-lg-6 my-4 d-flex flex-column align-items-center">
+        <img class="blog-inline-image" src="/assets/images/2607JUL/bday.jpg">
+        <i class="text-center">Here we are at Emme's first birthday! Thankful for the weather even though it was a little windy and the balloons didn't quite stay upright.</i>
+    </div>
+</div>
+
+<div class="row flex-lg-row">
+    <div class="col-lg-6 my-4">
+        <h3>reflections</h3>
+        <ul class="list-group list-group-flush">
+            <li class="list-group-item">- As I look toward the second half of 2026, I’m trying to take up more opportunities for personal discipleship. I’ve realised that it is not something that plays to my strengths, and as a result I’ve put it lower on my priorities. But, I have enjoyed being able to meet up with people and speak into peoples lives, and seen the fruit of it! As a new dad I’ve also found I’ve been able to speak into people’s lives more readily. I’m thankful that God continues to stretch me and grow me for his work in different ways!</li>
+            <li class="list-group-item">- I thought I was good at juggling different tasks because my last job I’d work on different projects, but now I realise that even across different projects my tasks were usually somewhat the same… Now doing ministry I’ve realised that working on multiple things at the same time is something that I need to keep growing in. I find it easy to work on something when I have momentum and focus hard on that, but as a result some other things might fall behind until I get time to focus on them individually. In these last two months I’ve found myself with less support as different people on the staff team have taken leave or had their own responsibilities which meant I had more time to work independently. I can’t imagine what it’d be like to be the sole pastor of a church, but I definitely felt the need and the weight of being capable of handling a range of different responsibilities faithfully by myself.</li>
+            <li class="list-group-item">- I’ve been wrestling with what it looks like to be personally okay with the quality of my work not being “perfect”. I enjoy being in the word and being faithful in my exegesis, but I feel that I’ve often gone beyond what’s required in my reading, and with my current capacity and responsibilities this has been slowing me down. It’s always good to be faithful, but part of me going above and beyond to get it right can sometimes be a fear of people and a point of pride. So as I labour on I continue to wrestle with what it looks like to work faithfully and sustainably, and teach for God’s glory and not my own.</li>
+        </ul>
+    </div>
+    <div class="col-lg-6 my-4">
+        <h3>prayer points</h3>
+        <ul class="list-group list-group-flush">
+            <li class="list-group-item">- Pray for our youth group, we’re regularly getting more than 10 youth which is double what we started last year! I’ve also got two more talks in this term, pray for faithful teaching and for these youth to know God more clearly and to live for Jesus!</li>
+            <li class="list-group-item">- I am preaching from Philippians 3:1-11 on the 16th of August at our 9am service - you are welcome to come! Pray for God’s wisdom as I continue to look at this passage and for His Spirit to be at work when I come to preach on the Sunday.</li>
+            <li class="list-group-item">- Pray for my work in heading up training people to teach at our church. It’s something I’ve been working on for a while and has been lagging behind, but as our church continues to grow we’ve continued to see the need for more people to teach. Pray that our church would be faithful in growing God’s people in his word, and teaching people to teach others from the Bible.</li>
+            <li class="list-group-item">- Pray for Bec’s extended family, Grandpa has become more frequently unwell in his old age and it has brought up conversations about life and death. Pray that in this time we’d be able to use our opportunities well to be a good witness to the only hope that we have in life and death.</li>
+            <li class="list-group-item">- Pray for our family as we continue to consider what it looks like for me to continue to be trained next year. My biggest fear at the moment is for me to go to college to study and gain a lot of head knowledge, but for that to translate to nothing in actually pastoring people. Pray for wisdom in identifying my weaknesses well and how I can be growing to serve God’s kingdom better in the future.</li>
+        </ul>
+    </div>
+</div>
+<div class="row flex-lg-row">
+    <div class="col-lg-12 my-4 d-flex justify-content-center">
+    </div>
+</div>
+
+
+<div class="row flex-lg-row align-items-center">
+    <div class="col-lg-6 my-4">
+        <h3>🙏 Thank you again for your partnership in the gospel! Shoot through a message when you've prayed (even if it's just a "hey!") and let me know how I can be praying for you also!</h3>
+    </div>
+    <div class="col-lg-6 my-4 d-flex flex-column align-items-center">
+        <img class="blog-inline-image" src="/assets/images/2607JUL/sleeping.jpg">
+        <i class="text-center">Here is a rare morning sleep in where I've taken Emme out of bed for the morning but she's decided she wanted to go back to sleep (and me likewise.)</i>
+    </div>
+</div>
+
