@@ -122,8 +122,8 @@ categories: update
         <h3>🙏 Thank you again for your partnership in the gospel! Shoot through a message when you've prayed (even if it's just a "hey!") and let me know how I can be praying for you also!</h3>
     </div>
     <div class="col-lg-6 my-4 d-flex flex-column align-items-center">
-        <img class="blog-inline-image" src="/assets/images/2607JUL/sleeping.jpg">
-        <i class="text-center">Here is a rare morning sleep in where I've taken Emme out of bed for the morning but she's decided she wanted to go back to sleep (and me likewise.)</i>
+        <img class="blog-inline-image" src="/assets/images/2607JUL/lunch.jpg">
+        <i class="text-center">Our friend and ex-student minister at captivate stayed with us while he was visiting from Singapore!</i>
     </div>
 </div>
 
